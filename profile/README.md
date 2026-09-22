@@ -11,7 +11,7 @@
 
 **English** · [简体中文](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md)
 
-[Free tools](#free-tools-choose-the-task-you-need) · [Choose a model](#choose-a-model-for-the-work-you-want-to-do) · [Your first clip](#make-your-first-five-second-shot) · [Open-source resources](#open-source-resources-for-better-creative-briefs) · [Partner with us](#teach-share-and-partner-with-videoweb)
+[Free tools](#user-content-free-tools-choose-the-task-you-need) · [Choose a model](#user-content-choose-a-model-for-the-work-you-want-to-do) · [Your first clip](#user-content-make-your-first-five-second-shot) · [Open-source resources](#user-content-open-source-resources-for-better-creative-briefs) · [Partner with us](#user-content-teach-share-and-partner-with-videoweb)
 
 ## A creative workspace for video, images, and music
 

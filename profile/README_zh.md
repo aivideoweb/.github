@@ -11,7 +11,7 @@
 
 [English](https://github.com/aivideoweb/.github/blob/main/profile/README.md) · **简体中文**
 
-[免费工具](#免费工具按你要完成的任务选择) · [选择模型](#根据创作任务选择模型) · [制作第一个短片](#制作你的第一个五秒镜头) · [开源资源](#开源资源从具体例子学会描述和检查) · [推广合作](#分享教程与-videoweb-开展推广合作)
+[免费工具](#user-content-免费工具按你要完成的任务选择) · [选择模型](#user-content-根据创作任务选择模型) · [制作第一个短片](#user-content-制作你的第一个五秒镜头) · [开源资源](#user-content-开源资源从具体例子学会描述和检查) · [推广合作](#user-content-分享教程与-videoweb-开展推广合作)
 
 ## 在浏览器里创作视频、图片和音乐
 
