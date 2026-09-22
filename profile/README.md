@@ -11,7 +11,7 @@
 
 **English** · [简体中文](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md)
 
-[Free tools](#free-tools) · [Choose a model](#models) · [Your first clip](#start) · [Open-source resources](#projects) · [Partner with us](#partners)
+[Free tools](#free-tools-choose-the-task-you-need) · [Choose a model](#choose-a-model-for-the-work-you-want-to-do) · [Your first clip](#make-your-first-five-second-shot) · [Open-source resources](#open-source-resources-for-better-creative-briefs) · [Partner with us](#teach-share-and-partner-with-videoweb)
 
 ## A creative workspace for video, images, and music
 
@@ -25,8 +25,6 @@ Make a product reveal, a vertical social clip, a campaign image, or a lesson ope
 | Motion from a product photo or storyboard | [Image to Video](https://videoweb.ai/image-to-video/) — supply your image and describe what moves |
 | A thumbnail, poster, or revised product image | [AI Image Generator](https://videoweb.ai/ai-image-generator/) — write a brief or direct an edit |
 | Music for a creative project | [AI Music Generator](https://videoweb.ai/ai-music/) — begin with the mood and musical direction |
-
-<a id="free-tools"></a>
 
 ## Free tools: choose the task you need
 
@@ -51,8 +49,6 @@ Make a product reveal, a vertical social clip, a campaign image, or a lesson ope
 
 **How free access works:** dedicated free generators and the account's free plan are different routes. Free forms may require verification and queue time. The [pricing page](https://videoweb.ai/pricing/) separately lists 40 new-user credits, 20 daily check-in credits, and 50 daily free-tool uses for the free account plan. Do not apply that account allowance to every standalone free page. Advanced model generations have their own credit costs and settings; check the selected form before submitting. Free access does not mean every model, resolution, or export option is included.
 
-<a id="models"></a>
-
 ## Choose a model for the work you want to do
 
 These are capabilities described on VideoWeb's linked product pages, with practical starting tasks—not a benchmark ranking. Available inputs, duration, sound, resolution, and credit cost depend on the selected model and mode.
@@ -70,8 +66,6 @@ These are capabilities described on VideoWeb's linked product pages, with practi
 | [Suno music workflows](https://videoweb.ai/ai-music/) | Text descriptions or lyrics, with instrumental and vocal options; [pricing lists Suno versions through 5.0](https://videoweb.ai/pricing/) | Draft background music for a product demo; choose an available version in the music form |
 
 Open [Create](https://videoweb.ai/create/) to compare the options currently offered in the workspace. A model announcement or a prompt-library title does not establish access to every feature in a generation form.
-
-<a id="start"></a>
 
 ## Make your first five-second shot
 
@@ -92,8 +86,6 @@ This is a starter brief, not a tested output. For image guidance, supply both fi
 
 **Need a soundtrack?** Open [AI Music](https://videoweb.ai/ai-music/), choose an available model and Instrumental mode, and describe, for example: “Warm acoustic guitar and soft percussion, relaxed mood, steady tempo, no vocals, for a calm product demonstration.” Check the displayed credit cost before generating, then review the music against your video. This music brief has not been generation-tested. Music creation is a separate workflow; adding it to your final edit is a later step.
 
-<a id="projects"></a>
-
 ## Open-source resources for better creative briefs
 
 We share prompt collections, visual references, and browser walkthroughs so creators can start from a concrete example, adapt it, and learn how to review the result. VideoWeb editions retain upstream credits and distinguish community demonstrations from tested outputs. Each repository explains its own sources and license.
@@ -111,8 +103,6 @@ We share prompt collections, visual references, and browser walkthroughs so crea
 *Covers illustrate the resources; they are not evidence of results from the linked free generators. Follow each repository's labels for example provenance and supported inputs.*
 
 Choose an example, rewrite its subject description, prepare any required reference files, and match its requirements to the generator. A recipe requiring video references or a longer duration needs adaptation before use in a five-second free form. [Browse all VideoWeb repositories](https://github.com/orgs/aivideoweb/repositories).
-
-<a id="partners"></a>
 
 ## Teach, share, and partner with VideoWeb
 
