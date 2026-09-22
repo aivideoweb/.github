@@ -24,6 +24,10 @@ def navigation(current):
     for _, label, filename in LANGUAGES:
         color = '647A30' if filename == current else '59636E'
         badge = 'https://img.shields.io/badge/' + quote(label, safe='') + '-' + color + '?style=flat-square'
+        if filename in ('README_ar.md', 'README_th.md'):
+            code = 'ar' if filename == 'README_ar.md' else 'th'
+            state = 'active' if filename == current else 'idle'
+            badge = f'https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-{code}-{state}.svg'
         rows.append(f'[![{label}]({badge})]({BASE}{filename})')
     return START + '\n' + '\n\n'.join(' '.join(rows[i:i+5]) for i in range(0,15,5)) + '\n' + END
 
@@ -46,7 +50,7 @@ def refresh():
 
 def external_links(s):
     return {u for u in re.findall(r'https://[^\s)"<>]+',s)
-            if 'img.shields.io/' not in u and '/.github/blob/main/profile/README' not in u}
+            if 'img.shields.io/' not in u and '/assets/badges/' not in u and '/.github/blob/main/profile/README' not in u}
 
 def check():
     english = (ROOT/'profile/README.md').read_text()
@@ -64,7 +68,7 @@ def check():
         normalized = re.sub(r'\s+', '', s)
         for claim in ['480p','2K','20%','10%','100','40','50']:
             assert claim in normalized, f'{name}: missing key value {claim}'
-        assert s.count('raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/') == 5, f'{name}: image mismatch'
+        assert len(re.findall(r'raw\.githubusercontent\.com/aivideoweb/\.github/main/profile/assets/(?!badges/)', s)) == 5, f'{name}: image mismatch'
         assert '<!-- LANGUAGE_NAV -->' not in s and '{{' not in s, f'{name}: leftover placeholder'
         if name not in ('README.md', 'README_zh.md'):
             for key in ('free-tools', 'models', 'start', 'projects', 'partners'):

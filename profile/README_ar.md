@@ -7,11 +7,11 @@
 
 **حوّل فكرتك إلى فيديو أو صورة أو موسيقى مصاحبة. ابدأ بأداة مجانية ووصف إبداعي واضح.**
 
-[![أبدع مع VideoWeb](https://img.shields.io/badge/%D8%A3%D8%A8%D8%AF%D8%B9%20%D9%85%D8%B9%20VideoWeb-647A30?style=for-the-badge)](https://videoweb.ai/create/)
-[![جرّب إنشاء فيديو مجانًا](https://img.shields.io/badge/%D8%AC%D8%B1%D9%91%D8%A8%20%D8%A5%D9%86%D8%B4%D8%A7%D8%A1%20%D9%81%D9%8A%D8%AF%D9%8A%D9%88%20%D9%85%D8%AC%D8%A7%D9%86%D9%8B%D8%A7-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/)
-[![جرّب إنشاء صور مجانًا](https://img.shields.io/badge/%D8%AC%D8%B1%D9%91%D8%A8%20%D8%A5%D9%86%D8%B4%D8%A7%D8%A1%20%D8%B5%D9%88%D8%B1%20%D9%85%D8%AC%D8%A7%D9%86%D9%8B%D8%A7-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+[![أبدع مع VideoWeb](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-1.svg)](https://videoweb.ai/create/)
+[![جرّب إنشاء فيديو مجانًا](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-2.svg)](https://videoweb.ai/free-minimax-h3/)
+[![جرّب إنشاء صور مجانًا](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-3.svg)](https://videoweb.ai/free-gpt-image-2-5/)
 
-[![استكشف المشاريع مفتوحة المصدر](https://img.shields.io/badge/%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aivideoweb) [![الباقات والأرصدة](https://img.shields.io/badge/%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%AF%D8%A9-59636E?style=for-the-badge)](https://videoweb.ai/pricing/)
+[![استكشف المشاريع مفتوحة المصدر](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-4.svg)](https://github.com/aivideoweb) [![الباقات والأرصدة](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-5.svg)](https://videoweb.ai/pricing/)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md)
 
-[![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
+[![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-active.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
 <!-- LANGUAGE_NAV_END -->
 
 [**🎁 أدوات مجانية**](#user-content-free-tools) · [**🎬 اختر نموذجًا**](#user-content-models) · [**▶ مقطعك الأول**](#user-content-start) · [**📚 موارد مفتوحة المصدر**](#user-content-projects) · [**🤝 تعاون معنا**](#user-content-partners)
@@ -158,7 +158,7 @@
 
 **هل أنت مستعد للإبداع؟ اختر نقطة بداية لمشروعك المقبل.**
 
-[![أنشئ مقطعًا مجانيًا](https://img.shields.io/badge/%D8%A3%D9%86%D8%B4%D8%A6%20%D9%85%D9%82%D8%B7%D8%B9%D9%8B%D8%A7%20%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%8B%D8%A7-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/) [![أنشئ صورة مجانية](https://img.shields.io/badge/%D8%A3%D9%86%D8%B4%D8%A6%20%D8%B5%D9%88%D8%B1%D8%A9%20%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+[![أنشئ مقطعًا مجانيًا](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-6.svg)](https://videoweb.ai/free-minimax-h3/) [![أنشئ صورة مجانية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-7.svg)](https://videoweb.ai/free-gpt-image-2-5/)
 
 [VideoWeb AI](https://videoweb.ai/) · [مشاريع مفتوحة المصدر](https://github.com/aivideoweb)
 
