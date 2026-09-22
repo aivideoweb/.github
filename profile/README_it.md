@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.png" alt="Logo di VideoWeb AI" width="160" height="160"></a>
+  <a href="https://videoweb.ai/it/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.svg" alt="Logo di VideoWeb AI" width="160" height="160"></a>
 
 # VideoWeb AI
 
 **Trasforma un'idea in un video, un'immagine o una colonna sonora. Inizia con uno strumento gratuito e una descrizione creativa chiara.**
 
-[![Crea con VideoWeb](https://img.shields.io/badge/Crea%20con%20VideoWeb-647A30?style=for-the-badge)](https://videoweb.ai/create/)
-[![Prova i video gratuiti](https://img.shields.io/badge/Prova%20i%20video%20gratuiti-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/)
-[![Prova le immagini gratuite](https://img.shields.io/badge/Prova%20le%20immagini%20gratuite-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+[![Crea con VideoWeb](https://img.shields.io/badge/Crea%20con%20VideoWeb-647A30?style=for-the-badge)](https://videoweb.ai/it/create/)
+[![Prova i video gratuiti](https://img.shields.io/badge/Prova%20i%20video%20gratuiti-6D4AFF?style=for-the-badge)](https://videoweb.ai/it/free-minimax-h3/)
+[![Prova le immagini gratuite](https://img.shields.io/badge/Prova%20le%20immagini%20gratuite-147D92?style=for-the-badge)](https://videoweb.ai/it/free-gpt-image-2-5/)
 
-[![Esplora i progetti a codice aperto](https://img.shields.io/badge/Esplora%20i%20progetti%20a%20codice%20aperto-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aivideoweb) [![Piani e crediti](https://img.shields.io/badge/Piani%20e%20crediti-59636E?style=for-the-badge)](https://videoweb.ai/pricing/)
+[![Esplora i progetti a codice aperto](https://img.shields.io/badge/Esplora%20i%20progetti%20a%20codice%20aperto-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aivideoweb/repositories) [![Piani e crediti](https://img.shields.io/badge/Piani%20e%20crediti-59636E?style=for-the-badge)](https://videoweb.ai/it/pricing/)
 
 </div>
 
@@ -25,16 +25,16 @@
 
 ## Uno spazio creativo per video, immagini e musica
 
-[VideoWeb AI](https://videoweb.ai/) riunisce generazione video con intelligenza artificiale, creazione e modifica di immagini e strumenti musicali in uno spazio nel browser per creatori di contenuti, professionisti del marketing, gruppi di lavoro del commercio elettronico e docenti. Parti da una scena scritta, una foto di prodotto o un fotogramma di una sequenza illustrata; scegli un modello e sviluppa materiali per il tuo prossimo progetto senza scrivere codice.
+[VideoWeb AI](https://videoweb.ai/it/) riunisce generazione video con intelligenza artificiale, creazione e modifica di immagini e strumenti musicali in uno spazio nel browser per creatori di contenuti, professionisti del marketing, gruppi di lavoro del commercio elettronico e docenti. Parti da una scena scritta, una foto di prodotto o un fotogramma di una sequenza illustrata; scegli un modello e sviluppa materiali per il tuo prossimo progetto senza scrivere codice.
 
 Realizza una presentazione di prodotto, un breve video verticale per i social, un'immagine per una campagna o l'apertura di una lezione. Le nostre risorse su GitHub ti aiutano a rispondere alla domanda successiva: **che cosa devo chiedere al modello di creare e che cosa devo controllare nel risultato?**
 
 | Che cosa vuoi creare | Da dove iniziare |
 | --- | --- |
-| Una scena breve a partire da un'idea | [Da testo a video](https://videoweb.ai/text-to-video/) — descrivi soggetto, azione, camera e suono |
-| Movimento da una foto di prodotto o una sequenza illustrata | [Da immagine a video](https://videoweb.ai/image-to-video/) — fornisci l'immagine e descrivi che cosa si muove |
-| Una miniatura, un manifesto o un'immagine di prodotto rivista | [Generatore di immagini con intelligenza artificiale](https://videoweb.ai/ai-image-generator/) — scrivi una descrizione o indica la modifica desiderata |
-| Musica per un progetto creativo | [Generatore di musica con intelligenza artificiale](https://videoweb.ai/ai-music/) — parti dall'atmosfera e dalla direzione musicale |
+| Una scena breve a partire da un'idea | [Da testo a video](https://videoweb.ai/it/text-to-video/) — descrivi soggetto, azione, camera e suono |
+| Movimento da una foto di prodotto o una sequenza illustrata | [Da immagine a video](https://videoweb.ai/it/image-to-video/) — fornisci l'immagine e descrivi che cosa si muove |
+| Una miniatura, un manifesto o un'immagine di prodotto rivista | [Generatore di immagini con intelligenza artificiale](https://videoweb.ai/it/ai-image-generator/) — scrivi una descrizione o indica la modifica desiderata |
+| Musica per un progetto creativo | [Generatore di musica con intelligenza artificiale](https://videoweb.ai/it/ai-music/) — parti dall'atmosfera e dalla direzione musicale |
 
 <a id="free-tools"></a>
 
@@ -44,63 +44,68 @@ Realizza una presentazione di prodotto, un breve video verticale per i social, u
 
 | Strumento | A cosa serve | Da sapere prima di iniziare |
 | --- | --- | --- |
-| [MiniMax H3 gratuito](https://videoweb.ai/free-minimax-h3/) | Provare una presentazione di prodotto, un'inquadratura iniziale o una scena breve | La pagina indica nessuna registrazione, 0 crediti e **5 secondi a 480p**. Usa solo testo oppure una coppia di immagini iniziale e finale. |
-| [Da immagine a video gratuito](https://videoweb.ai/free-image-to-video/) | Progettare una transizione tra due composizioni | Prepara entrambe le immagini, iniziale e finale, per guidare i fotogrammi; la pagina usa il processo gratuito H3, sempre a 5 secondi / 480p. |
-| [GPT Image 2.5 gratuito](https://videoweb.ai/free-gpt-image-2-5/) | Abbozzare un'immagine per una campagna, un fotogramma di una sequenza illustrata o una modifica a un'immagine | La pagina indica nessuna registrazione; testo o **una sola immagine di riferimento**, con nove rapporti d'aspetto. |
-| [Nano Banana gratuito](https://videoweb.ai/free-nano-banana/) | Esplorare idee visive, ritocchi fotografici e variazioni di stile | La pagina indica nessuna registrazione; inizia con un'istruzione e, facoltativamente, un'immagine. |
+| Procedura gratuita H3: [testo o immagini iniziale e finale](https://videoweb.ai/it/free-minimax-h3/) · [accesso con guida tramite immagini](https://videoweb.ai/it/free-image-to-video/) | Prova una scena breve: parti dal testo se non hai immagini; usa sia l’immagine iniziale sia quella finale per pianificare una transizione | Entrambi gli accessi usano la stessa procedura H3: nessuna registrazione, 0 crediti, **5 secondi a 480p**. Sono due pagine di accesso, non due modelli diversi. |
+| [GPT Image 2.5 gratuito](https://videoweb.ai/it/free-gpt-image-2-5/) | Abbozzare un'immagine per una campagna, un fotogramma di una sequenza illustrata o una modifica a un'immagine | La pagina indica nessuna registrazione; testo o **una sola immagine di riferimento**, con nove rapporti d'aspetto. |
+| [Nano Banana gratuito](https://videoweb.ai/it/free-nano-banana/) | Esplorare idee visive, ritocchi fotografici e variazioni di stile | La pagina indica nessuna registrazione; inizia con un'istruzione e, facoltativamente, un'immagine. |
 
 ### Prepara, descrivi ed esporta i tuoi materiali
 
 | Strumento | Che cosa ottieni |
 | --- | --- |
-| [Generatore di istruzioni per video con intelligenza artificiale](https://videoweb.ai/ai-video-prompt-generator/) | Un'istruzione video più dettagliata a partire da una descrizione sommaria |
-| [Da immagine a istruzione](https://videoweb.ai/ai-image-to-prompt/) | Un'istruzione scritta che descrive le caratteristiche visibili di un'immagine |
-| [Rimozione dello sfondo](https://videoweb.ai/ai-remove-background/) | Il soggetto ritagliato su sfondo trasparente, da usare nelle composizioni |
-| [Descrizione di immagini](https://videoweb.ai/describe-image/) | Descrizioni, didascalie o risposte a domande su un'immagine |
-| [Da MP4 a MOV](https://videoweb.ai/mp4-to-mov/) · [Da MP4 a AVI](https://videoweb.ai/mp4-to-avi/) | Un formato video diverso; entrambi i moduli indicano **fino a 60 secondi e 50 MB** per caricamento |
+| [Generatore di istruzioni per video con intelligenza artificiale](https://videoweb.ai/it/ai-video-prompt-generator/) | Un'istruzione video più dettagliata a partire da una descrizione sommaria |
+| [Da immagine a istruzione](https://videoweb.ai/it/ai-image-to-prompt/) | Un'istruzione scritta che descrive le caratteristiche visibili di un'immagine |
+| [Rimozione dello sfondo](https://videoweb.ai/it/ai-remove-background/) | Il soggetto ritagliato su sfondo trasparente, da usare nelle composizioni |
+| [Descrizione di immagini](https://videoweb.ai/it/describe-image/) | Descrizioni, didascalie o risposte a domande su un'immagine |
+| [Da MP4 a MOV](https://videoweb.ai/it/mp4-to-mov/) · [Da MP4 a AVI](https://videoweb.ai/it/mp4-to-avi/) | Un formato video diverso; entrambi i moduli indicano **fino a 60 secondi e 50 MB** per caricamento |
 
-**Come funziona l'accesso gratuito:** i generatori gratuiti dedicati e il piano gratuito dell'account sono modalità di accesso distinte. I moduli gratuiti possono richiedere una verifica e un'attesa in coda. La [pagina dei prezzi](https://videoweb.ai/pricing/) elenca separatamente 40 crediti per i nuovi utenti, 20 crediti per la conferma giornaliera di presenza e 50 utilizzi quotidiani degli strumenti gratuiti per il piano gratuito dell'account. Non applicare questa quota dell'account a ogni pagina gratuita autonoma. Le generazioni con modelli avanzati hanno costi in crediti e impostazioni propri; controlla il modulo selezionato prima dell'invio. L'accesso gratuito non significa che siano inclusi tutti i modelli, le risoluzioni o le opzioni di esportazione.
+**Come funziona l'accesso gratuito:** i generatori gratuiti dedicati e il piano gratuito dell'account sono modalità di accesso distinte. I moduli gratuiti possono richiedere una verifica e un'attesa in coda. La [pagina dei prezzi](https://videoweb.ai/it/pricing/) elenca separatamente 40 crediti per i nuovi utenti, 20 crediti per la conferma giornaliera di presenza e 50 utilizzi quotidiani degli strumenti gratuiti per il piano gratuito dell'account. Non applicare questa quota dell'account a ogni pagina gratuita autonoma. Le generazioni con modelli avanzati hanno costi in crediti e impostazioni propri; controlla il modulo selezionato prima dell'invio. L'accesso gratuito non significa che siano inclusi tutti i modelli, le risoluzioni o le opzioni di esportazione.
 
 <a id="models"></a>
 
 ## Scegli un modello per il lavoro che vuoi realizzare
 
-Queste sono le capacità descritte nelle pagine dei prodotti VideoWeb collegate, con attività pratiche da cui iniziare: non è una classifica basata su prove comparative. Dati in ingresso disponibili, durata, suono, risoluzione e costo in crediti dipendono dal modello e dalla modalità selezionati.
+Parti dal materiale che hai e dai requisiti che il risultato deve soddisfare. Le opzioni qui sotto provengono dalle pagine dei prodotti collegate; sono candidati da cui iniziare, non una classifica di qualità. Se più modelli sono adatti, confronta la stessa breve descrizione nelle modalità disponibili e controlla il costo in crediti visualizzato prima di generare.
 
-| Modello | Capacità da esplorare | Una prima attività utile |
+| Il tuo materiale e obiettivo | Da dove iniziare | Che cosa confermare prima di generare |
 | --- | --- | --- |
-| [Seedance 2.5](https://videoweb.ai/model/seedance-2-5/) | Video da testo o immagini, guida tramite riferimenti, controllo della camera e della scena | Progettare un video di lancio di prodotto con una presentazione e un finale ben definiti |
-| [MiniMax H3](https://videoweb.ai/model/minimax-h3/) | Video da testo o immagini con audio stereo nativo; la pagina del modello descrive fino a 15 secondi e 2K | Provare una scena di prodotto in movimento con un suono specifico; il modulo gratuito separato rimane a 5 secondi / 480p |
-| [Wan 3.0](https://videoweb.ai/model/wan-3-0/) | Video da testo o immagini, guida facoltativa tramite fotogramma finale nelle modalità immagine compatibili, durate selezionabili di 5–30 secondi | Dirigere una transizione verso una composizione finale pianificata |
-| [Kling 3.0](https://videoweb.ai/model/kling-3-0/) | Video da istruzioni o immagini, azioni dei personaggi, audio e narrazione con più inquadrature | Esplorare una scena con un personaggio o una breve sequenza di dialogo |
-| [Veo 3.1](https://videoweb.ai/model/veo-3-1-video/) | Video da testo o immagini con audio e regia cinematografica della scena | Esplorare una scena in cui contano il suono d'ambiente e il movimento della camera |
-| [GPT Image 2.5](https://videoweb.ai/model/gpt-image-2-5/) | Immagini da testo e modifiche con riferimenti; Flare per esplorare, Sunburst per modifiche dettagliate | Creare un'immagine per una campagna, poi modificare un elemento specificando che cosa mantenere |
-| [Nano Banana Pro](https://videoweb.ai/nano-banana-pro-ai/) | Creazione di immagini da istruzioni, con caricamento facoltativo di immagini e combinazione di riferimenti | Esplorare una composizione usando i riferimenti visivi già disponibili |
-| [Seedream 5.0 Pro](https://videoweb.ai/model/seedream-5-0-pro/) | Generazione e modifica di immagini per prodotti, impaginazione di informazioni e sequenze illustrate | Abbozzare un manifesto esplicativo o un'impaginazione per una campagna di prodotto |
-| [Creazione musicale con Suno](https://videoweb.ai/ai-music/) | Descrizioni testuali o testi di canzoni, con opzioni strumentali e vocali; [i prezzi elencano versioni di Suno fino alla 5.0](https://videoweb.ai/pricing/) | Abbozzare musica di sottofondo per una dimostrazione di prodotto; scegliere una versione disponibile nel modulo musicale |
+| Una scena scritta o una foto di prodotto; vuoi dirigere la presentazione e la camera | [Seedance 2.5](https://videoweb.ai/it/model/seedance-2-5/) — video da testo o immagini e regia della scena guidata da riferimenti | Controlla che la modalità scelta accetti il tuo tipo di riferimento; descrivi un’azione principale e un finale chiaro |
+| Testo o una coppia di immagini iniziale e finale; vuoi una prova breve e gratuita | [MiniMax H3](https://videoweb.ai/it/model/minimax-h3/) — la procedura gratuita separata qui sopra offre 5 s / 480p | Per lavori più lunghi o a risoluzione maggiore, la pagina del modello descrive fino a 15 s, 2K e audio stereo nativo; controlla il modulo avanzato e i crediti necessari |
+| Un’immagine iniziale e una composizione finale pianificata; ti serve un’opzione per il fotogramma finale | [Wan 3.0](https://videoweb.ai/it/model/wan-3-0/) — video da testo o immagini, con durate selezionabili di 5–30 s | La guida tramite fotogramma finale è facoltativa nelle modalità immagine compatibili; verifica che sia disponibile nella modalità scelta |
+| Una scena con personaggi o un dialogo; ti servono più inquadrature | [Kling 3.0](https://videoweb.ai/it/model/kling-3-0/) — azioni dei personaggi, audio e narrazione con più inquadrature | Controlla i comandi per inquadrature e audio della modalità scelta; specifica chiaramente l’aspetto dei personaggi e chi parla |
+| Una descrizione di scena o un’immagine; contano il movimento della camera e il suono d’ambiente | [Veo 3.1](https://videoweb.ai/it/model/veo-3-1-video/) — video cinematografici da testo o immagini con audio | Conferma durata, impostazioni audio e costo in crediti; anche H3 e Kling descrivono funzioni audio, quindi il suono da solo non determina la scelta del modello |
+| Un’immagine di campagna o un elemento da modificare; devi preservare il resto | [GPT Image 2.5](https://videoweb.ai/it/model/gpt-image-2-5/) — Flare per esplorare, Sunburst per modifiche dettagliate | Indica la modifica e che cosa deve restare invariato; controlla i limiti dei riferimenti nel modulo scelto, soprattutto nell’accesso gratuito separato |
+| Più riferimenti visivi da combinare in una composizione | [Nano Banana Pro](https://videoweb.ai/it/nano-banana-pro-ai/) — creazione di immagini e combinazione di riferimenti | Controlla i limiti di caricamento e descrivi il ruolo di ogni immagine: soggetto, stile o composizione |
+| Un manifesto di prodotto, un’impaginazione informativa o una sequenza illustrata | [Seedream 5.0 Pro](https://videoweb.ai/it/model/seedream-5-0-pro/) — generazione e modifica di immagini | Specifica il testo esatto e l’impaginazione; verifica le scritte e i dettagli del prodotto nel risultato |
+| Una descrizione dell’atmosfera o un testo di canzone; ti serve una colonna sonora | [Creazione musicale con Suno](https://videoweb.ai/it/ai-music/) — opzioni strumentali e vocali; [i prezzi elencano versioni fino alla 5.0](https://videoweb.ai/it/pricing/) | Scegli una versione disponibile e la modalità Instrumental o vocale; la musica viene generata separatamente dal video |
 
-Apri lo [spazio di creazione](https://videoweb.ai/create/) per confrontare le opzioni attualmente disponibili. L'annuncio di un modello o il titolo di una raccolta di istruzioni non dimostra che tutte le funzioni siano accessibili in un modulo di generazione.
+Apri lo [spazio di creazione](https://videoweb.ai/it/create/) per controllare modalità e costi attuali. La pagina di un modello descrive le possibilità; il modulo selezionato determina i dati in ingresso e le impostazioni che puoi effettivamente usare.
 
 <a id="start"></a>
 
 ## Realizza la tua prima inquadratura di cinque secondi
 
-1. Apri [MiniMax H3 gratuito](https://videoweb.ai/free-minimax-h3/). Inizia solo con il testo e lascia vuoti entrambi gli spazi per le immagini.
-2. Incolla la descrizione qui sotto e scegli un'inquadratura orizzontale, verticale o quadrata. La pagina gratuita indica 5 secondi / 480p.
-3. Completa le verifiche richieste, invia una sola volta e segui lo stato della richiesta. Esamina il video restituito prima di scaricarlo.
-4. Controlla la forma della tazza, il movimento della camera e il finale. Modifica una sola istruzione al tentativo successivo.
+Segui l’[esercizio della stanza accogliente nella nostra guida a H3 gratuito](https://github.com/aivideoweb/best-free-minimax-h3/blob/main/docs/free-tool-prompts.md#user-content-videoweb). La fonte è in inglese e cinese; qui sotto ne proponiamo una traduzione italiana per iniziare senza cercare nella raccolta. È un esercizio basato solo sul testo, non un risultato generato.
+
+1. Apri [MiniMax H3 gratuito](https://videoweb.ai/it/free-minimax-h3/). Lascia vuoti entrambi gli spazi per le immagini.
+2. Incolla l’istruzione seguente e seleziona il formato orizzontale **16:9**. L’uscita gratuita è di 5 s / 480p.
+3. Completa le verifiche richieste, invia una sola volta e segui lo stato della richiesta. Guarda l’anteprima del video ricevuto prima di scaricarlo.
+4. Controlla che lo stipite della porta resti dritto, che la camera si muova in modo fluido e che la sedia e la lampada siano visibili alla fine. Se il movimento presenta problemi, accorcia il percorso della camera al tentativo successivo.
 
 ```text
-Un'unica inquadratura di cinque secondi di una tazza di ceramica blu senza decorazioni su un tavolo di legno.
-La tazza resta immobile. La camera si avvicina lentamente durante i primi
-quattro secondi, poi resta ferma per un secondo. Luce morbida dalla finestra a sinistra.
-Mantieni invariati la forma della tazza, il manico, il colore e lo sfondo.
-Nessuno stacco, oggetto aggiunto, scritta o logo. Suono d'ambiente di una stanza tranquilla, senza parlato.
+Crea un’unica inquadratura di cinque secondi, 16:9.
+Parti da una vista ferma dall’esterno di una porta di legno aperta e avanza lentamente
+con la camera in una sala di lettura tranquilla. Una tenda si muove dolcemente alla
+finestra. Termina con la sedia e la lampada interamente visibili. Mantieni lo stipite
+della porta dritto e la disposizione della stanza invariata. Suono d’ambiente tenue;
+nessun dialogo né testo.
+Mantieni calmo l’ultimo secondo. Nessuno stacco o ulteriore cambio di scena.
 ```
 
-Questa è una descrizione iniziale, non un risultato testato. Per la guida tramite immagini, fornisci sia il fotogramma iniziale sia quello finale nel modulo gratuito. Per una scena più lunga o impostazioni di uscita diverse, apri la [pagina del modello H3](https://videoweb.ai/model/minimax-h3/) e controlla le scelte disponibili e i crediti richiesti.
+**Adattalo alla tua idea:** sostituisci prima «sala di lettura» con la tua ambientazione, per esempio un piccolo negozio. Sostituisci «sedia e lampada» con gli oggetti che vuoi mostrare alla fine. Conserva un’unica inquadratura continua, il movimento lento della camera e l’ultimo secondo calmo. Cambia un’istruzione alla volta e ricontrolla gli stessi dettagli.
 
-**Ti serve una colonna sonora?** Apri il [generatore di musica con intelligenza artificiale](https://videoweb.ai/ai-music/), scegli un modello disponibile e la modalità strumentale e descrivi, per esempio: «Chitarra acustica dal timbro caldo e percussioni delicate, atmosfera rilassata, tempo regolare, senza voce, per una dimostrazione di prodotto tranquilla». Controlla il costo in crediti visualizzato prima di generare, poi valuta la musica insieme al video. Questa descrizione musicale non è stata testata generando un brano. La creazione musicale è un processo separato; l'aggiunta al montaggio finale avviene in un secondo momento.
+Questo esercizio non è stato testato tramite generazione. Propone di creare una scena descritta; il solo testo non preserva l’aspetto di una stanza o di un prodotto reali. Per la guida tramite immagini, fornisci sia il fotogramma iniziale sia quello finale nel modulo gratuito. Per una scena più lunga o impostazioni di uscita diverse, apri la [pagina del modello H3](https://videoweb.ai/it/model/minimax-h3/) e controlla le opzioni e i crediti necessari.
+
+**Ti serve una colonna sonora?** Apri il [generatore di musica con intelligenza artificiale](https://videoweb.ai/it/ai-music/), scegli un modello disponibile e la modalità strumentale e descrivi, per esempio: «Chitarra acustica dal timbro caldo e percussioni delicate, atmosfera rilassata, tempo regolare, senza voce, per una dimostrazione di prodotto tranquilla». Controlla il costo in crediti visualizzato prima di generare, poi valuta la musica insieme al video. Questa descrizione musicale non è stata testata generando un brano. La creazione musicale è un processo separato; l'aggiunta al montaggio finale avviene in un secondo momento.
 
 <a id="projects"></a>
 
@@ -120,13 +125,13 @@ Condividiamo raccolte di istruzioni, riferimenti visivi e guide nel browser, cos
 
 *Le copertine illustrano le risorse; non dimostrano i risultati dei generatori gratuiti collegati. Segui le indicazioni di ciascun archivio sulla provenienza degli esempi e sui dati in ingresso supportati.*
 
-Scegli un esempio, riscrivi la descrizione del soggetto, prepara tutti i file di riferimento richiesti e adatta i requisiti al generatore. Una ricetta che richiede riferimenti video o una durata maggiore va adattata prima dell'uso in un modulo gratuito da cinque secondi. [Sfoglia tutti gli archivi VideoWeb](https://github.com/orgs/aivideoweb/repositories).
+Per una prima prova, usa l’esercizio della stanza accogliente collegato qui sopra: mostra che cosa copiare, cambiare e controllare. Per le altre ricette, prepara i file di riferimento necessari e adatta i requisiti al generatore. Una ricetta che richiede riferimenti video o una durata maggiore va adattata prima dell’uso in un modulo gratuito da cinque secondi. [Sfoglia tutti gli archivi VideoWeb](https://github.com/orgs/aivideoweb/repositories).
 
 <a id="partners"></a>
 
 ## Insegna, condividi e collabora con VideoWeb
 
-Il [Programma di affiliazione VideoWeb](https://videoweb.ai/affiliate-program/) si rivolge a creatori di video, recensori di strumenti, professionisti del marketing e docenti che condividono guide utili o procedure creative.
+Il [Programma di affiliazione VideoWeb](https://videoweb.ai/it/affiliate-program/) si rivolge a creatori di video, recensori di strumenti, professionisti del marketing e docenti che condividono guide utili o procedure creative.
 
 Entrambe le percentuali si applicano solo agli ordini idonei effettuati entro **60 giorni dalla registrazione**, dopo che l'utente si è registrato tramite un collegamento di segnalazione valido e la piattaforma ha registrato la segnalazione.
 
@@ -137,27 +142,27 @@ Entrambe le percentuali si applicano solo agli ordini idonei effettuati entro **
 
 Per iniziare:
 
-1. Apri la [pagina del programma](https://videoweb.ai/affiliate-program/) e accedi al tuo account VideoWeb.
-2. Completa il profilo di affiliato e i dati per ricevere i pagamenti, quindi leggi e accetta il [Contratto di affiliazione](https://videoweb.ai/affiliate-agreement/).
+1. Apri la [pagina del programma](https://videoweb.ai/it/affiliate-program/) e accedi al tuo account VideoWeb.
+2. Completa il profilo di affiliato e i dati per ricevere i pagamenti, quindi leggi e accetta il [Contratto di affiliazione](https://videoweb.ai/it/affiliate-agreement/).
 3. Dopo l'approvazione, crea il tuo collegamento di segnalazione e usalo in guide o recensioni che dichiarino chiaramente il rapporto di affiliazione.
 
 Idoneità, attribuzione, rimborsi ed esclusioni sono regolati dal contratto; i guadagni non sono garantiti. Attualmente il contratto richiede almeno **100 dollari statunitensi di commissioni approvate e disponibili** prima di richiedere un pagamento.
 
 ## Impara e contribuisci con noi
 
-- **Crea qualcosa:** apri lo [spazio di creazione](https://videoweb.ai/create/) o scegli uno degli strumenti gratuiti qui sopra.
+- **Crea qualcosa:** apri lo [spazio di creazione](https://videoweb.ai/it/create/) o scegli uno degli strumenti gratuiti qui sopra.
 - **Migliora una risorsa:** apri una segnalazione nell'archivio pertinente indicando l'istruzione, le impostazioni e gli aspetti da chiarire; invia una proposta di modifica per una correzione, un esempio o una traduzione.
 - **Ottieni assistenza sul prodotto:** scrivi a [contact@videoweb.ai](mailto:contact@videoweb.ai) per domande sull'account o sulla fatturazione. Le segnalazioni su GitHub sono dedicate a queste risorse pubbliche.
 - **Scopri idee creative:** segui [VideoWeb su X](https://twitter.com/videowebai).
 
-Informazioni sui prodotti verificate il **22 settembre 2026** sulle pagine collegate. Le capacità dei modelli e le condizioni gratuite qui riportate sono descrizioni delle pagine, non prove di generazione. Prima dell'uso commerciale, controlla il tuo piano e i [Termini di servizio](https://videoweb.ai/terms-of-service/).
+Informazioni sui prodotti verificate il **22 settembre 2026** sulle pagine collegate. Le capacità dei modelli e le condizioni gratuite qui riportate sono descrizioni delle pagine, non prove di generazione. Prima dell'uso commerciale, controlla il tuo piano e i [Termini di servizio](https://videoweb.ai/it/terms-of-service/).
 
 <div align="center">
 
 **Vuoi iniziare a creare? Scegli il punto di partenza per il tuo prossimo progetto.**
 
-[![Crea un video gratuito](https://img.shields.io/badge/Crea%20un%20video%20gratuito-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/) [![Crea un'immagine gratuita](https://img.shields.io/badge/Crea%20un%27immagine%20gratuita-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+[![Crea un video gratuito](https://img.shields.io/badge/Crea%20un%20video%20gratuito-6D4AFF?style=for-the-badge)](https://videoweb.ai/it/free-minimax-h3/) [![Crea un'immagine gratuita](https://img.shields.io/badge/Crea%20un%27immagine%20gratuita-147D92?style=for-the-badge)](https://videoweb.ai/it/free-gpt-image-2-5/)
 
-[VideoWeb AI](https://videoweb.ai/) · [Progetti a codice aperto](https://github.com/aivideoweb)
+[VideoWeb AI](https://videoweb.ai/it/) · [Progetti a codice aperto](https://github.com/aivideoweb)
 
 </div>

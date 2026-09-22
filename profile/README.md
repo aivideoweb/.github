@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.png" alt="VideoWeb AI logo" width="160" height="160"></a>
+  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.svg" alt="VideoWeb AI logo" width="160" height="160"></a>
 
 # VideoWeb AI
 
@@ -9,7 +9,7 @@
 [![Try Free Video](https://img.shields.io/badge/Try%20Free%20Video-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/)
 [![Try Free Images](https://img.shields.io/badge/Try%20Free%20Images-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
 
-[![Explore Open Source](https://img.shields.io/badge/Explore%20Open%20Source-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aivideoweb) [![Plans & Credits](https://img.shields.io/badge/Plans%20%26%20Credits-59636E?style=for-the-badge)](https://videoweb.ai/pricing/)
+[![Explore Open Source](https://img.shields.io/badge/Explore%20Open%20Source-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aivideoweb/repositories) [![Plans & Credits](https://img.shields.io/badge/Plans%20%26%20Credits-59636E?style=for-the-badge)](https://videoweb.ai/pricing/)
 
 </div>
 
@@ -42,8 +42,7 @@ Make a product reveal, a vertical social clip, a campaign image, or a lesson ope
 
 | Tool | Use it for | What to know before starting |
 | --- | --- | --- |
-| [Free MiniMax H3](https://videoweb.ai/free-minimax-h3/) | Test a product reveal, opening shot, or short scene | Page lists no signup, 0 credits, **5 seconds at 480p**. Use text alone or a pair of first/last images. |
-| [Free Image to Video](https://videoweb.ai/free-image-to-video/) | Plan a transition between two compositions | Prepare both opening and closing images for frame guidance; the page uses the H3 free workflow, also 5s / 480p. |
+| H3 free workflow: [text or first/last images](https://videoweb.ai/free-minimax-h3/) · [image-guided entry](https://videoweb.ai/free-image-to-video/) | Try one short scene: start with text if you have no images; use both opening and closing images for a planned transition | Both entries use the same H3 workflow: no signup, 0 credits, **5 seconds at 480p**. They are two entry pages, not two different models. |
 | [Free GPT Image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | Draft a campaign visual, storyboard frame, or image revision | Page lists no signup; text or **one reference image**, with nine aspect ratios. |
 | [Free Nano Banana](https://videoweb.ai/free-nano-banana/) | Explore image concepts, photo edits, and style variations | Page lists no signup; start with a prompt and an optional image. |
 
@@ -61,38 +60,43 @@ Make a product reveal, a vertical social clip, a campaign image, or a lesson ope
 
 ## Choose a model for the work you want to do
 
-These are capabilities described on VideoWeb's linked product pages, with practical starting tasks—not a benchmark ranking. Available inputs, duration, sound, resolution, and credit cost depend on the selected model and mode.
+Start with the material you have and the condition your output must meet. The options below come from the linked product pages; they are starting candidates, not a quality ranking. When several models fit, compare the same short brief in the available modes and check the displayed credit cost before generating.
 
-| Model | Capability to explore | A useful first task |
+| Your material and goal | Where to start | What to confirm before generating |
 | --- | --- | --- |
-| [Seedance 2.5](https://videoweb.ai/model/seedance-2-5/) | Text/image video, reference guidance, camera and scene direction | Plan a product launch clip with a clear reveal and ending |
-| [MiniMax H3](https://videoweb.ai/model/minimax-h3/) | Text/image video with native stereo audio; model page describes up to 15s and 2K | Try a product motion scene with a specific sound cue; the separate free form remains 5s / 480p |
-| [Wan 3.0](https://videoweb.ai/model/wan-3-0/) | Text/image video, optional end-frame guidance in supported image modes, 5–30s duration choices | Direct a transition toward a planned final composition |
-| [Kling 3.0](https://videoweb.ai/model/kling-3-0/) | Prompt/image video, character action, audio, and multi-shot storytelling | Explore a character scene or a short dialogue sequence |
-| [Veo 3.1](https://videoweb.ai/model/veo-3-1-video/) | Text/image video with audio and cinematic scene direction | Explore a scene where ambience and camera movement matter |
-| [GPT Image 2.5](https://videoweb.ai/model/gpt-image-2-5/) | Text-to-image and reference edits; Flare for exploration, Sunburst for detailed editing | Create a campaign image, then revise one element while naming what to keep |
-| [Nano Banana Pro](https://videoweb.ai/nano-banana-pro-ai/) | Prompt-based image creation with optional image uploads and reference combining | Explore a composition using your existing visual references |
-| [Seedream 5.0 Pro](https://videoweb.ai/model/seedream-5-0-pro/) | Text-to-image and image editing for product visuals, information layouts, and storyboards | Draft an explanatory poster or a product campaign layout |
-| [Suno music workflows](https://videoweb.ai/ai-music/) | Text descriptions or lyrics, with instrumental and vocal options; [pricing lists Suno versions through 5.0](https://videoweb.ai/pricing/) | Draft background music for a product demo; choose an available version in the music form |
+| A written scene or product photo; you want to direct the reveal and camera | [Seedance 2.5](https://videoweb.ai/model/seedance-2-5/) — text/image video and reference-guided scene direction | Check that the selected mode accepts your reference type; describe one main action and a clear ending |
+| Text or a first/last image pair; you want a short, free trial | [MiniMax H3](https://videoweb.ai/model/minimax-h3/) — the separate free workflow above is 5s / 480p | For longer or higher-resolution work, the model page describes up to 15s, 2K and native stereo audio; check the advanced form and credits |
+| Opening image and a planned final composition; you need an end-frame option | [Wan 3.0](https://videoweb.ai/model/wan-3-0/) — text/image video, 5–30s duration choices | End-frame guidance is optional in supported image modes; confirm it is available in the mode you select |
+| A character scene or dialogue; you need multiple shots | [Kling 3.0](https://videoweb.ai/model/kling-3-0/) — character action, audio and multi-shot storytelling | Check the selected mode's shot and audio controls; keep character appearance and speaker instructions explicit |
+| A scene brief or image; camera movement and ambient sound matter | [Veo 3.1](https://videoweb.ai/model/veo-3-1-video/) — cinematic text/image video with audio | Confirm duration, audio settings and credit cost; H3 and Kling also describe audio, so sound alone does not decide the model |
+| A campaign image or one element to revise; you need to preserve the rest | [GPT Image 2.5](https://videoweb.ai/model/gpt-image-2-5/) — Flare for exploration, Sunburst for detailed editing | State the change and what must stay unchanged; check reference limits in the chosen form, especially the separate free entry |
+| Several visual references; you want to combine them into one composition | [Nano Banana Pro](https://videoweb.ai/nano-banana-pro-ai/) — image creation and reference combining | Check upload limits and describe each image's role: subject, style or composition |
+| A product poster, information layout or storyboard | [Seedream 5.0 Pro](https://videoweb.ai/model/seedream-5-0-pro/) — image generation and editing | Specify exact text and layout; review lettering and product details in the result |
+| A mood description or lyrics; you need a soundtrack | [Suno music workflows](https://videoweb.ai/ai-music/) — instrumental and vocal options; [pricing lists versions through 5.0](https://videoweb.ai/pricing/) | Choose an available version and Instrumental or vocal mode; music is generated separately from the video |
 
-Open [Create](https://videoweb.ai/create/) to compare the options currently offered in the workspace. A model announcement or a prompt-library title does not establish access to every feature in a generation form.
+Open [Create](https://videoweb.ai/create/) to check current modes and costs. A model page describes possibilities; the selected form determines the inputs and settings you can actually use.
 
 ## Make your first five-second shot
 
-1. Open [Free MiniMax H3](https://videoweb.ai/free-minimax-h3/). Start with text only and leave both image slots empty.
-2. Paste the brief below and choose landscape, portrait, or square framing. The free page lists 5s / 480p.
-3. Complete any verification, submit once, and follow the request status. Review a returned clip before downloading it.
-4. Check the cup shape, camera movement, and ending. Change one instruction for the next attempt.
+Follow the [warm-room exercise in our free H3 guide](https://github.com/aivideoweb/best-free-minimax-h3/blob/main/docs/free-tool-prompts.md#user-content-videoweb). Its English/Chinese source is reproduced below so you can start here without searching the library. It is a text-only exercise, not a generated result.
+
+1. Open [Free MiniMax H3](https://videoweb.ai/free-minimax-h3/). Leave both image slots empty.
+2. Paste the prompt below and select landscape **16:9**. The free output is 5s / 480p.
+3. Complete any verification, submit once and follow the request status. Preview the returned clip before downloading.
+4. Check that the doorway stays straight, the camera moves smoothly and the chair and lamp are visible at the end. If the motion breaks, shorten the camera move for the next attempt.
 
 ```text
-A single five-second shot of a plain blue ceramic cup on a wooden table.
-The cup stays still. The camera slowly moves closer during the first
-four seconds, then holds for one second. Soft window light from the left.
-Keep the cup shape, handle, color, and background unchanged.
-No cuts, added objects, lettering, or logos. Quiet room ambience, no speech.
+Create one five-second shot, 16:9.
+From a still view outside an open wooden doorway, slowly push the camera into a quiet
+reading room. A curtain moves gently at the window. End with the chair and lamp fully
+visible. Keep the doorway straight and the room layout unchanged. Soft room tone; no
+dialogue or text.
+Keep the last second calm. No cuts or extra scene changes.
 ```
 
-This is a starter brief, not a tested output. For image guidance, supply both first and last frames in the free form. For a longer scene or different output settings, open the [H3 model page](https://videoweb.ai/model/minimax-h3/) and review the available choices and credits.
+**Make it yours:** first replace “reading room” with your setting, such as a small shop. Replace “chair and lamp” with the objects you want visible at the end. Keep one continuous shot, the slow camera move and the calm final second. Change one instruction at a time and check the same details again.
+
+This exercise has not been generation-tested. It creates a described scene; text alone does not preserve the appearance of a real room or product. For image guidance, supply both first and last frames in the free form. For a longer scene or different output settings, open the [H3 model page](https://videoweb.ai/model/minimax-h3/) and review the choices and credits.
 
 **Need a soundtrack?** Open [AI Music](https://videoweb.ai/ai-music/), choose an available model and Instrumental mode, and describe, for example: “Warm acoustic guitar and soft percussion, relaxed mood, steady tempo, no vocals, for a calm product demonstration.” Check the displayed credit cost before generating, then review the music against your video. This music brief has not been generation-tested. Music creation is a separate workflow; adding it to your final edit is a later step.
 
@@ -112,7 +116,7 @@ We share prompt collections, visual references, and browser walkthroughs so crea
 
 *Covers illustrate the resources; they are not evidence of results from the linked free generators. Follow each repository's labels for example provenance and supported inputs.*
 
-Choose an example, rewrite its subject description, prepare any required reference files, and match its requirements to the generator. A recipe requiring video references or a longer duration needs adaptation before use in a five-second free form. [Browse all VideoWeb repositories](https://github.com/orgs/aivideoweb/repositories).
+For a first practice, use the linked warm-room exercise above: it shows what to copy, change and inspect. For other recipes, prepare any required reference files and match their requirements to the generator. A recipe requiring video references or a longer duration needs adaptation before use in a five-second free form. [Browse all VideoWeb repositories](https://github.com/orgs/aivideoweb/repositories).
 
 ## Teach, share, and partner with VideoWeb
 

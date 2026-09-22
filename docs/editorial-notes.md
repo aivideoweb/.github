@@ -26,7 +26,7 @@
 
 | 本仓库文件 | 来源 |
 | --- | --- |
-| `profile/assets/videoweb-logo.png` | [VideoWeb 官网标识](https://videoweb.ai/images/logo.png) |
+| `profile/assets/videoweb-logo.svg` | [VideoWeb 官网矢量标识](https://videoweb.ai/icon.svg)；原样保留路径、渐变与 viewBox，以 160px 显示 |
 | `profile/assets/gpt-image-library.png` | [VideoWeb GPT Image 2.5 封面](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts/blob/main/assets/images/videoweb-cover.png) |
 | `profile/assets/minimax-library.webp` | [VideoWeb H3 封面](https://github.com/aivideoweb/awesome-minimax-h3-prompts/blob/main/assets/hero-minimax-h3-video-prompts.webp) |
 | `profile/assets/wan-library.png` | [VideoWeb Wan 封面](https://github.com/aivideoweb/awesome-wan-3-0-prompts/blob/main/assets/videoweb-wan-3-hero.png) |
@@ -66,3 +66,21 @@
 主执行者再独自对照 Flaq 源主页及 VideoWeb 英文正文：15 版均承接品牌定位、按任务选工具、模型能力、首个视频和配乐、四个公开资源、合作及支持；没有因翻译删去关键条件。与源库面向开发者的 API 定位不同，本文围绕 VideoWeb 的浏览器创作流程组织内容。全部版本经 GitHub Markdown 渲染，均为七节、七表；新增语言目录采用固定英文锚点并链接其实际 `user-content-` ID，阿拉伯语保留从右向左排版。
 
 公开验收发现 Shields 徽章的固定字距影响阿拉伯文连写和泰文可读性，因此这两种语言的行动按钮及语言标签改用 `profile/assets/badges/` 内的矢量图，保留完整文字、原配色与目标链接，不设置强制字距或文字拉伸。其余语言继续使用原徽章样式。
+
+
+## 批判性复查后的改进
+
+- 顶部开源按钮直接进入仓库列表，避免点击后停在当前主页。
+- Logo 改用官网原生 SVG，解决 64px 位图放大后的模糊。
+- 模型表改为按已有素材和输出要求选择候选，并列明生成前应确认的条件，不作未经实测的优劣排名。
+- 两个免费 H3 入口合并说明，共用的五秒、480p、文字或首尾两图条件只解释一次。
+- 入门示例连接到免费 H3 指南的暖色房间练习，附可复制提示词、具体改写方式及结果检查方法。该练习为尚未生成验证的概念练习；英文和简中来自资源库，其他语言为译例。
+- 各语言官网入口以 `docs/product-locales.json` 中核验的页面地址为准。
+
+这些改进来自对实际点击路径和读者选择困难的复查；此前的结构检查通过不代表读者体验已无改进空间。
+
+官网入口核验：28 条产品路径 × 15 种语言，共 420 项。最终地址均与请求地址一致，HTTP 状态为 200，HTML 语言、页面标题和主标题已核对；初次网络异常经重试恢复，没有使用英文回退。核验的是页面地址和语言，不代表完成注册、生成或下载。
+
+维护检查改为逐个段落、表格条目核对链接及其顺序，按对应商业条目核对完整数值，检查练习正文非空及本地图片存在。21 项回归测试覆盖交换工具链接、40 改成 400、100 改成 1000、清空练习等错误；翻译语义与模型效果仍需人工复核。
+
+本轮独立复核：英文内容改进及东亚四版、欧洲五版、俄语／泰语／越南语／印尼语／阿拉伯语五版均经子代理交叉审阅，无剩余必改语义项。主执行者最后独自对照源主页和完整读者路径，确认入口选择、首次实践、资源衔接及合作支持均有对应内容；没有新增未经核验的模型排名或生成效果承诺。15 版均通过 GitHub Markdown 渲染；在实际简中正文的内存副本中模拟四类错误，检查均正确拒绝，原文件未写入错误。

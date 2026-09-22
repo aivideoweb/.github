@@ -9,3 +9,7 @@ GitHub displays `profile/README.md` on the organization overview. All 15 languag
 For source pages, image credits, and the review record, see [editorial notes](docs/editorial-notes.md).
 
 To refresh language navigation, run `python3 scripts/profile_languages.py --write`. To check language coverage and content structure, run `python3 scripts/profile_languages.py`.
+
+The product-link check uses [verified language routes](docs/product-locales.json), including the final URL and page language. Refresh this evidence when product paths change; a successful HTTP response alone is not proof of a translated product page.
+
+Run `python3 -m unittest discover -s scripts -p 'test_*.py'` for regression checks against swapped links, changed numeric claims, and empty examples. Content checks do not replace a review of translation meaning or the rendered page.
