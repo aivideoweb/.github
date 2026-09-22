@@ -9,7 +9,7 @@
 [![Попробуйте бесплатное видео](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B9%D1%82%D0%B5%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-6D4AFF?style=for-the-badge)](https://videoweb.ai/ru/free-minimax-h3/)
 [![Попробуйте бесплатные изображения](https://img.shields.io/badge/%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B9%D1%82%D0%B5%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-147D92?style=for-the-badge)](https://videoweb.ai/ru/free-gpt-image-2-5/)
 
-[**Открытые проекты →**](https://github.com/orgs/aivideoweb/repositories) [**Тарифы и кредиты →**](https://videoweb.ai/ru/pricing/)
+[**Открытые проекты →**](https://github.com/orgs/aivideoweb/repositories) · [**Тарифы и кредиты →**](https://videoweb.ai/ru/pricing/)
 
 </div>
 

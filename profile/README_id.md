@@ -9,7 +9,7 @@
 [![Coba Video Gratis](https://img.shields.io/badge/Coba%20Video%20Gratis-6D4AFF?style=for-the-badge)](https://videoweb.ai/id/free-minimax-h3/)
 [![Coba Gambar Gratis](https://img.shields.io/badge/Coba%20Gambar%20Gratis-147D92?style=for-the-badge)](https://videoweb.ai/id/free-gpt-image-2-5/)
 
-[**Jelajahi Sumber Terbuka →**](https://github.com/orgs/aivideoweb/repositories) [**Paket dan Kredit →**](https://videoweb.ai/id/pricing/)
+[**Jelajahi Sumber Terbuka →**](https://github.com/orgs/aivideoweb/repositories) · [**Paket dan Kredit →**](https://videoweb.ai/id/pricing/)
 
 </div>
 

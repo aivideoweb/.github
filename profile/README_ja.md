@@ -9,7 +9,7 @@
 [![無料で動画を試す](https://img.shields.io/badge/%E7%84%A1%E6%96%99%E3%81%A7%E5%8B%95%E7%94%BB%E3%82%92%E8%A9%A6%E3%81%99-6D4AFF?style=for-the-badge)](https://videoweb.ai/ja/free-minimax-h3/)
 [![無料で画像を試す](https://img.shields.io/badge/%E7%84%A1%E6%96%99%E3%81%A7%E7%94%BB%E5%83%8F%E3%82%92%E8%A9%A6%E3%81%99-147D92?style=for-the-badge)](https://videoweb.ai/ja/free-gpt-image-2-5/)
 
-[**オープンソースを見る →**](https://github.com/orgs/aivideoweb/repositories) [**プランとクレジット →**](https://videoweb.ai/ja/pricing/)
+[**オープンソースを見る →**](https://github.com/orgs/aivideoweb/repositories) · [**プランとクレジット →**](https://videoweb.ai/ja/pricing/)
 
 </div>
 

@@ -9,7 +9,7 @@
 [![무료 영상 체험](https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C%20%EC%98%81%EC%83%81%20%EC%B2%B4%ED%97%98-6D4AFF?style=for-the-badge)](https://videoweb.ai/ko/free-minimax-h3/)
 [![무료 이미지 체험](https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%B2%B4%ED%97%98-147D92?style=for-the-badge)](https://videoweb.ai/ko/free-gpt-image-2-5/)
 
-[**오픈 소스 둘러보기 →**](https://github.com/orgs/aivideoweb/repositories) [**요금제와 크레딧 →**](https://videoweb.ai/ko/pricing/)
+[**오픈 소스 둘러보기 →**](https://github.com/orgs/aivideoweb/repositories) · [**요금제와 크레딧 →**](https://videoweb.ai/ko/pricing/)
 
 </div>
 

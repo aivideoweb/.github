@@ -9,7 +9,7 @@
 [![Kostenlose Videos ausprobieren](https://img.shields.io/badge/Kostenlose%20Videos%20ausprobieren-6D4AFF?style=for-the-badge)](https://videoweb.ai/de/free-minimax-h3/)
 [![Kostenlose Bilder ausprobieren](https://img.shields.io/badge/Kostenlose%20Bilder%20ausprobieren-147D92?style=for-the-badge)](https://videoweb.ai/de/free-gpt-image-2-5/)
 
-[**Quelloffene Projekte entdecken →**](https://github.com/orgs/aivideoweb/repositories) [**Tarife und Guthaben →**](https://videoweb.ai/de/pricing/)
+[**Quelloffene Projekte entdecken →**](https://github.com/orgs/aivideoweb/repositories) · [**Tarife und Guthaben →**](https://videoweb.ai/de/pricing/)
 
 </div>
 

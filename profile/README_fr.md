@@ -9,7 +9,7 @@
 [![Créer une vidéo gratuitement](https://img.shields.io/badge/Cr%C3%A9er%20une%20vid%C3%A9o%20gratuitement-6D4AFF?style=for-the-badge)](https://videoweb.ai/fr/free-minimax-h3/)
 [![Créer une image gratuitement](https://img.shields.io/badge/Cr%C3%A9er%20une%20image%20gratuitement-147D92?style=for-the-badge)](https://videoweb.ai/fr/free-gpt-image-2-5/)
 
-[**Explorer les projets à code ouvert →**](https://github.com/orgs/aivideoweb/repositories) [**Offres et crédits →**](https://videoweb.ai/fr/pricing/)
+[**Explorer les projets à code ouvert →**](https://github.com/orgs/aivideoweb/repositories) · [**Offres et crédits →**](https://videoweb.ai/fr/pricing/)
 
 </div>
 

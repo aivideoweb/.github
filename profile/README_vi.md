@@ -9,7 +9,7 @@
 [![Thử tạo video miễn phí](https://img.shields.io/badge/Th%E1%BB%AD%20t%E1%BA%A1o%20video%20mi%E1%BB%85n%20ph%C3%AD-6D4AFF?style=for-the-badge)](https://videoweb.ai/vi/free-minimax-h3/)
 [![Thử tạo ảnh miễn phí](https://img.shields.io/badge/Th%E1%BB%AD%20t%E1%BA%A1o%20%E1%BA%A3nh%20mi%E1%BB%85n%20ph%C3%AD-147D92?style=for-the-badge)](https://videoweb.ai/vi/free-gpt-image-2-5/)
 
-[**Khám phá mã nguồn mở →**](https://github.com/orgs/aivideoweb/repositories) [**Gói dịch vụ và điểm →**](https://videoweb.ai/vi/pricing/)
+[**Khám phá mã nguồn mở →**](https://github.com/orgs/aivideoweb/repositories) · [**Gói dịch vụ và điểm →**](https://videoweb.ai/vi/pricing/)
 
 </div>
 

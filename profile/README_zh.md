@@ -9,7 +9,7 @@
 [![免费生成视频](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91-6D4AFF?style=for-the-badge)](https://videoweb.ai/cn/free-minimax-h3/)
 [![免费生成图片](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87-147D92?style=for-the-badge)](https://videoweb.ai/cn/free-gpt-image-2-5/)
 
-[**浏览开源项目 →**](https://github.com/orgs/aivideoweb/repositories) [**查看套餐与积分 →**](https://videoweb.ai/cn/pricing/)
+[**浏览开源项目 →**](https://github.com/orgs/aivideoweb/repositories) · [**查看套餐与积分 →**](https://videoweb.ai/cn/pricing/)
 
 </div>
 

@@ -9,7 +9,7 @@
 [![ลองสร้างวิดีโอฟรี](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/th-action-2.svg)](https://videoweb.ai/th/free-minimax-h3/)
 [![ลองสร้างภาพฟรี](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/th-action-3.svg)](https://videoweb.ai/th/free-gpt-image-2-5/)
 
-[**สำรวจโครงการโอเพนซอร์ส →**](https://github.com/orgs/aivideoweb/repositories) [**แพ็กเกจและเครดิต →**](https://videoweb.ai/th/pricing/)
+[**สำรวจโครงการโอเพนซอร์ส →**](https://github.com/orgs/aivideoweb/repositories) · [**แพ็กเกจและเครดิต →**](https://videoweb.ai/th/pricing/)
 
 </div>
 

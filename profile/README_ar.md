@@ -11,7 +11,7 @@
 [![جرّب إنشاء فيديو مجانًا](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-2.svg)](https://videoweb.ai/ar/free-minimax-h3/)
 [![جرّب إنشاء صور مجانًا](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/ar-action-3.svg)](https://videoweb.ai/ar/free-gpt-image-2-5/)
 
-[**استكشف المشاريع مفتوحة المصدر →**](https://github.com/orgs/aivideoweb/repositories) [**الباقات والأرصدة →**](https://videoweb.ai/ar/pricing/)
+[**استكشف المشاريع مفتوحة المصدر →**](https://github.com/orgs/aivideoweb/repositories) · [**الباقات والأرصدة →**](https://videoweb.ai/ar/pricing/)
 
 </div>
 
