@@ -1,17 +1,21 @@
 <div align="center">
-  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.png" alt="VideoWeb AI logo" width="64" height="64"></a>
+  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.png" alt="VideoWeb AI logo" width="160" height="160"></a>
 
 # VideoWeb AI
 
 **Turn an idea into a video, image, or soundtrack. Start with a free tool and a clear creative brief.**
 
-[Create with VideoWeb](https://videoweb.ai/create/) · [Try free video](https://videoweb.ai/free-minimax-h3/) · [Try free images](https://videoweb.ai/free-gpt-image-2-5/)
+[![Create with VideoWeb](https://img.shields.io/badge/Create%20with%20VideoWeb-647A30?style=for-the-badge)](https://videoweb.ai/create/)
+[![Try Free Video](https://img.shields.io/badge/Try%20Free%20Video-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/)
+[![Try Free Images](https://img.shields.io/badge/Try%20Free%20Images-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+
+[![Explore Open Source](https://img.shields.io/badge/Explore%20Open%20Source-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aivideoweb) [![Plans & Credits](https://img.shields.io/badge/Plans%20%26%20Credits-59636E?style=for-the-badge)](https://videoweb.ai/pricing/)
 
 </div>
 
-**English** · [简体中文](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md)
+[![English](https://img.shields.io/badge/English-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md)
 
-[Free tools](#user-content-free-tools-choose-the-task-you-need) · [Choose a model](#user-content-choose-a-model-for-the-work-you-want-to-do) · [Your first clip](#user-content-make-your-first-five-second-shot) · [Open-source resources](#user-content-open-source-resources-for-better-creative-briefs) · [Partner with us](#user-content-teach-share-and-partner-with-videoweb)
+[**🎁 Free tools**](#user-content-free-tools-choose-the-task-you-need) · [**🎬 Choose a model**](#user-content-choose-a-model-for-the-work-you-want-to-do) · [**▶ Your first clip**](#user-content-make-your-first-five-second-shot) · [**📚 Open-source resources**](#user-content-open-source-resources-for-better-creative-briefs) · [**🤝 Partner with us**](#user-content-teach-share-and-partner-with-videoweb)
 
 ## A creative workspace for video, images, and music
 
@@ -132,4 +136,12 @@ Eligibility, attribution, refunds, and exclusions follow the agreement; earnings
 
 Product information checked **September 22, 2026** against the linked pages. Model capabilities and free conditions here are page descriptions, not generation tests. Before commercial use, check your plan and the [Terms of Service](https://videoweb.ai/terms-of-service/).
 
-**[VideoWeb AI](https://videoweb.ai/) · [Free video](https://videoweb.ai/free-minimax-h3/) · [Free images](https://videoweb.ai/free-gpt-image-2-5/) · [Open-source projects](https://github.com/aivideoweb)**
+<div align="center">
+
+**Ready to create? Choose a starting point for your next project.**
+
+[![Make a Free Clip](https://img.shields.io/badge/Make%20a%20Free%20Clip-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/) [![Create a Free Image](https://img.shields.io/badge/Create%20a%20Free%20Image-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+
+[VideoWeb AI](https://videoweb.ai/) · [Open-source projects](https://github.com/aivideoweb)
+
+</div>

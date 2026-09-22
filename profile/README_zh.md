@@ -1,17 +1,21 @@
 <div align="center">
-  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.png" alt="VideoWeb AI 品牌标识" width="64" height="64"></a>
+  <a href="https://videoweb.ai/"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/videoweb-logo.png" alt="VideoWeb AI 品牌标识" width="160" height="160"></a>
 
 # VideoWeb AI
 
 **把想法变成视频、图片和音乐。从一个免费工具、一段清楚的创作描述开始。**
 
-[进入 VideoWeb 创作](https://videoweb.ai/create/) · [免费生成视频](https://videoweb.ai/free-minimax-h3/) · [免费生成图片](https://videoweb.ai/free-gpt-image-2-5/)
+[![进入创作工作区](https://img.shields.io/badge/%E8%BF%9B%E5%85%A5%E5%88%9B%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%8C%BA-647A30?style=for-the-badge)](https://videoweb.ai/create/)
+[![免费生成视频](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/)
+[![免费生成图片](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+
+[![浏览开源项目](https://img.shields.io/badge/%E6%B5%8F%E8%A7%88%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aivideoweb) [![查看套餐与积分](https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%E4%B8%8E%E7%A7%AF%E5%88%86-59636E?style=for-the-badge)](https://videoweb.ai/pricing/)
 
 </div>
 
-[English](https://github.com/aivideoweb/.github/blob/main/profile/README.md) · **简体中文**
+[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md)
 
-[免费工具](#user-content-免费工具按你要完成的任务选择) · [选择模型](#user-content-根据创作任务选择模型) · [制作第一个短片](#user-content-制作你的第一个五秒镜头) · [开源资源](#user-content-开源资源从具体例子学会描述和检查) · [推广合作](#user-content-分享教程与-videoweb-开展推广合作)
+[**🎁 免费工具**](#user-content-免费工具按你要完成的任务选择) · [**🎬 选择模型**](#user-content-根据创作任务选择模型) · [**▶ 制作第一个短片**](#user-content-制作你的第一个五秒镜头) · [**📚 开源资源**](#user-content-开源资源从具体例子学会描述和检查) · [**🤝 推广合作**](#user-content-分享教程与-videoweb-开展推广合作)
 
 ## 在浏览器里创作视频、图片和音乐
 
@@ -132,4 +136,12 @@
 
 产品信息依据链接页面核对，日期为 **2026 年 9 月 22 日**。模型能力与免费条件来自页面说明，本介绍没有进行生成实测。商用前请查看所用套餐与[服务条款](https://videoweb.ai/terms-of-service/)。
 
-**[VideoWeb AI](https://videoweb.ai/) · [免费视频](https://videoweb.ai/free-minimax-h3/) · [免费图片](https://videoweb.ai/free-gpt-image-2-5/) · [开源项目](https://github.com/aivideoweb)**
+<div align="center">
+
+**准备好创作了吗？选一个入口，开始你的第一份作品。**
+
+[![免费制作短片](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%88%B6%E4%BD%9C%E7%9F%AD%E7%89%87-6D4AFF?style=for-the-badge)](https://videoweb.ai/free-minimax-h3/) [![免费制作图片](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%88%B6%E4%BD%9C%E5%9B%BE%E7%89%87-147D92?style=for-the-badge)](https://videoweb.ai/free-gpt-image-2-5/)
+
+[VideoWeb AI](https://videoweb.ai/) · [开源项目](https://github.com/aivideoweb)
+
+</div>
