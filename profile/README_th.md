@@ -9,16 +9,12 @@
 [![ลองสร้างวิดีโอฟรี](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/th-action-2.svg)](https://videoweb.ai/th/free-minimax-h3/)
 [![ลองสร้างภาพฟรี](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/th-action-3.svg)](https://videoweb.ai/th/free-gpt-image-2-5/)
 
-[![สำรวจโครงการโอเพนซอร์ส](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/th-action-4.svg)](https://github.com/orgs/aivideoweb/repositories) [![แพ็กเกจและเครดิต](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/th-action-5.svg)](https://videoweb.ai/th/pricing/)
+[**สำรวจโครงการโอเพนซอร์ส →**](https://github.com/orgs/aivideoweb/repositories) [**แพ็กเกจและเครดิต →**](https://videoweb.ai/th/pricing/)
 
 </div>
 
 <!-- LANGUAGE_NAV_START -->
-[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md)
-
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md)
-
-[![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-active.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
+[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md) [![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-active.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
 <!-- LANGUAGE_NAV_END -->
 
 [**🎁 เครื่องมือฟรี**](#user-content-free-tools) · [**🎬 เลือกโมเดล**](#user-content-models) · [**▶ คลิปแรกของคุณ**](#user-content-start) · [**📚 แหล่งข้อมูลโอเพนซอร์ส**](#user-content-projects) · [**🤝 ร่วมงานกับเรา**](#user-content-partners)
@@ -29,12 +25,10 @@
 
 คุณสามารถสร้างวิดีโอเปิดตัวสินค้า คลิปแนวตั้งสำหรับสื่อสังคมออนไลน์ ภาพแคมเปญ หรือช่วงเปิดบทเรียน แหล่งข้อมูลบน GitHub ของเราช่วยตอบคำถามถัดไปว่า **ควรขอให้โมเดลสร้างอะไร และควรตรวจอะไรในผลลัพธ์?**
 
-| สิ่งที่คุณอยากสร้าง | เริ่มที่ไหน |
-| --- | --- |
-| ฉากสั้นจากไอเดีย | [ข้อความเป็นวิดีโอ](https://videoweb.ai/th/text-to-video/) — บรรยายตัวแบบ การกระทำ กล้อง และเสียง |
-| ภาพเคลื่อนไหวจากภาพสินค้าหรือสตอรีบอร์ด | [ภาพเป็นวิดีโอ](https://videoweb.ai/th/image-to-video/) — ส่งภาพและอธิบายว่าส่วนใดเคลื่อนไหว |
-| ภาพขนาดย่อ โปสเตอร์ หรือภาพสินค้าที่ปรับแก้ | [เครื่องมือสร้างภาพด้วยปัญญาประดิษฐ์](https://videoweb.ai/th/ai-image-generator/) — เขียนคำอธิบายหรือระบุสิ่งที่ต้องการแก้ไข |
-| ดนตรีสำหรับโครงการสร้างสรรค์ | [เครื่องมือสร้างดนตรีด้วยปัญญาประดิษฐ์](https://videoweb.ai/th/ai-music/) — เริ่มจากอารมณ์และแนวทางดนตรี |
+- **ฉากสั้นจากไอเดีย** — [ข้อความเป็นวิดีโอ](https://videoweb.ai/th/text-to-video/) — บรรยายตัวแบบ การกระทำ กล้อง และเสียง
+- **ภาพเคลื่อนไหวจากภาพสินค้าหรือสตอรีบอร์ด** — [ภาพเป็นวิดีโอ](https://videoweb.ai/th/image-to-video/) — ส่งภาพและอธิบายว่าส่วนใดเคลื่อนไหว
+- **ภาพขนาดย่อ โปสเตอร์ หรือภาพสินค้าที่ปรับแก้** — [เครื่องมือสร้างภาพด้วยปัญญาประดิษฐ์](https://videoweb.ai/th/ai-image-generator/) — เขียนคำอธิบายหรือระบุสิ่งที่ต้องการแก้ไข
+- **ดนตรีสำหรับโครงการสร้างสรรค์** — [เครื่องมือสร้างดนตรีด้วยปัญญาประดิษฐ์](https://videoweb.ai/th/ai-music/) — เริ่มจากอารมณ์และแนวทางดนตรี
 
 <a id="free-tools"></a>
 
@@ -42,11 +36,23 @@
 
 ### สร้างวิดีโอหรือภาพแรก
 
-| เครื่องมือ | ใช้ทำอะไร | สิ่งที่ควรรู้ก่อนเริ่ม |
-| --- | --- | --- |
-| ขั้นตอนสร้างวิดีโอฟรีด้วย H3: [ข้อความหรือภาพเฟรมแรกและเฟรมสุดท้าย](https://videoweb.ai/th/free-minimax-h3/) · [หน้าเริ่มต้นสำหรับใช้ภาพนำทาง](https://videoweb.ai/th/free-image-to-video/) | ลองสร้างฉากสั้นหนึ่งฉาก: หากไม่มีภาพให้เริ่มด้วยข้อความ หากวางแผนการเปลี่ยนภาพไว้แล้วให้ใช้ทั้งภาพเริ่มต้นและภาพปิดท้าย | ทั้งสองหน้าใช้ขั้นตอน H3 เดียวกัน: ไม่ต้องสมัคร ใช้ 0 เครดิต **5 วินาทีที่ 480p** เป็นหน้าเริ่มต้นสองหน้า ไม่ใช่โมเดลสองตัว |
-| [GPT Image 2.5 ฟรี](https://videoweb.ai/th/free-gpt-image-2-5/) | ร่างภาพแคมเปญ เฟรมสตอรีบอร์ด หรือปรับแก้ภาพ | หน้าบริการระบุว่าไม่ต้องสมัคร ใช้ข้อความหรือ**ภาพอ้างอิงหนึ่งภาพ** เลือกอัตราส่วนภาพได้เก้าแบบ |
-| [Nano Banana ฟรี](https://videoweb.ai/th/free-nano-banana/) | สำรวจแนวคิดภาพ แก้ไขภาพถ่าย และทดลองสไตล์ต่าง ๆ | หน้าบริการระบุว่าไม่ต้องสมัคร เริ่มด้วยคำสั่งและเพิ่มภาพได้ตามต้องการ |
+#### ขั้นตอนสร้างวิดีโอฟรีด้วย H3: [ข้อความหรือภาพเฟรมแรกและเฟรมสุดท้าย](https://videoweb.ai/th/free-minimax-h3/) · [หน้าเริ่มต้นสำหรับใช้ภาพนำทาง](https://videoweb.ai/th/free-image-to-video/)
+
+**ใช้ทำอะไร:** ลองสร้างฉากสั้นหนึ่งฉาก: หากไม่มีภาพให้เริ่มด้วยข้อความ หากวางแผนการเปลี่ยนภาพไว้แล้วให้ใช้ทั้งภาพเริ่มต้นและภาพปิดท้าย
+
+**สิ่งที่ควรรู้ก่อนเริ่ม:** ทั้งสองหน้าใช้ขั้นตอน H3 เดียวกัน: ไม่ต้องสมัคร ใช้ 0 เครดิต **5 วินาทีที่ 480p** เป็นหน้าเริ่มต้นสองหน้า ไม่ใช่โมเดลสองตัว
+
+#### [GPT Image 2.5 ฟรี](https://videoweb.ai/th/free-gpt-image-2-5/)
+
+**ใช้ทำอะไร:** ร่างภาพแคมเปญ เฟรมสตอรีบอร์ด หรือปรับแก้ภาพ
+
+**สิ่งที่ควรรู้ก่อนเริ่ม:** หน้าบริการระบุว่าไม่ต้องสมัคร ใช้ข้อความหรือ**ภาพอ้างอิงหนึ่งภาพ** เลือกอัตราส่วนภาพได้เก้าแบบ
+
+#### [Nano Banana ฟรี](https://videoweb.ai/th/free-nano-banana/)
+
+**ใช้ทำอะไร:** สำรวจแนวคิดภาพ แก้ไขภาพถ่าย และทดลองสไตล์ต่าง ๆ
+
+**สิ่งที่ควรรู้ก่อนเริ่ม:** หน้าบริการระบุว่าไม่ต้องสมัคร เริ่มด้วยคำสั่งและเพิ่มภาพได้ตามต้องการ
 
 ### เตรียม อธิบาย และส่งออกสื่อของคุณ
 
@@ -66,17 +72,83 @@
 
 เริ่มจากสื่อที่คุณมีและเงื่อนไขที่ผลลัพธ์ต้องทำได้ ตัวเลือกด้านล่างอ้างอิงจากหน้าผลิตภัณฑ์ที่เชื่อมโยงไว้ เป็นโมเดลที่น่าลองเริ่มใช้ ไม่ใช่การจัดอันดับคุณภาพ หากมีหลายโมเดลที่เหมาะ ให้เปรียบเทียบด้วยคำบรรยายสั้นชุดเดียวกันในโหมดที่มีให้ใช้ และตรวจค่าเครดิตที่แสดงก่อนสร้าง
 
-| สื่อที่มีและเป้าหมาย | เริ่มจากที่ไหน | สิ่งที่ต้องตรวจสอบก่อนสร้าง |
-| --- | --- | --- |
-| คำบรรยายฉากหรือภาพสินค้า ต้องการกำกับการเผยให้เห็นสินค้าและกล้อง | [Seedance 2.5](https://videoweb.ai/th/model/seedance-2-5/) — วิดีโอจากข้อความหรือภาพ และการกำกับฉากด้วยสื่ออ้างอิง | ตรวจว่าโหมดที่เลือกใช้สื่ออ้างอิงประเภทที่คุณมีได้ ระบุการกระทำหลักหนึ่งอย่างและตอนจบให้ชัดเจน |
-| ข้อความหรือภาพเฟรมแรกและเฟรมสุดท้ายหนึ่งคู่ ต้องการทดลองใช้ฟรีแบบสั้น | [MiniMax H3](https://videoweb.ai/th/model/minimax-h3/) — ขั้นตอนฟรีแยกต่างหากด้านบนให้ผลลัพธ์ 5 วินาที / 480p | หากต้องการงานยาวขึ้นหรือความละเอียดสูงขึ้น หน้าโมเดลระบุว่าสร้างได้สูงสุด 15 วินาที, 2K และเสียงสเตอริโอในตัว ตรวจแบบฟอร์มขั้นสูงและค่าเครดิต |
-| ภาพเริ่มต้นและองค์ประกอบภาพสุดท้ายที่วางแผนไว้ ต้องการตัวเลือกกำหนดเฟรมสุดท้าย | [Wan 3.0](https://videoweb.ai/th/model/wan-3-0/) — วิดีโอจากข้อความหรือภาพ เลือกระยะเวลาได้ 5–30 วินาที | การใช้เฟรมสุดท้ายนำทางเป็นตัวเลือกเสริมในโหมดภาพที่รองรับ ตรวจว่ามีให้ใช้ในโหมดที่คุณเลือก |
-| ฉากตัวละครหรือบทสนทนา ต้องการหลายช็อต | [Kling 3.0](https://videoweb.ai/th/model/kling-3-0/) — การกระทำของตัวละคร เสียง และการเล่าเรื่องหลายช็อต | ตรวจตัวควบคุมช็อตและเสียงในโหมดที่เลือก ระบุรูปลักษณ์ตัวละครและผู้พูดให้ชัดเจน |
-| คำบรรยายฉากหรือภาพ ให้ความสำคัญกับการเคลื่อนกล้องและเสียงแวดล้อม | [Veo 3.1](https://videoweb.ai/th/model/veo-3-1-video/) — วิดีโอสไตล์ภาพยนตร์จากข้อความหรือภาพพร้อมเสียง | ตรวจระยะเวลา การตั้งค่าเสียง และค่าเครดิต H3 และ Kling ก็ระบุความสามารถด้านเสียงเช่นกัน จึงไม่ควรเลือกโมเดลจากเรื่องเสียงเพียงอย่างเดียว |
-| ภาพแคมเปญหรือองค์ประกอบหนึ่งอย่างที่ต้องการแก้ไข ต้องคงส่วนที่เหลือไว้ | [GPT Image 2.5](https://videoweb.ai/th/model/gpt-image-2-5/) — Flare สำหรับสำรวจไอเดีย และ Sunburst สำหรับแก้ไขอย่างละเอียด | ระบุสิ่งที่ต้องเปลี่ยนและสิ่งที่ต้องคงเดิม ตรวจข้อจำกัดของภาพอ้างอิงในแบบฟอร์มที่เลือก โดยเฉพาะหน้าใช้ฟรีแยกต่างหาก |
-| ภาพอ้างอิงหลายภาพ ต้องการรวมเป็นองค์ประกอบภาพเดียว | [Nano Banana Pro](https://videoweb.ai/th/nano-banana-pro-ai/) — สร้างภาพและรวมภาพอ้างอิง | ตรวจข้อจำกัดการอัปโหลด และอธิบายหน้าที่ของแต่ละภาพว่าใช้เป็นตัวแบบ สไตล์ หรือองค์ประกอบภาพ |
-| โปสเตอร์สินค้า การจัดวางข้อมูล หรือสตอรีบอร์ด | [Seedream 5.0 Pro](https://videoweb.ai/th/model/seedream-5-0-pro/) — สร้างและแก้ไขภาพ | ระบุข้อความที่ต้องการอย่างตรงตัวและการจัดวาง ตรวจตัวอักษรและรายละเอียดสินค้าในผลลัพธ์ |
-| คำบรรยายอารมณ์หรือเนื้อเพลง ต้องการดนตรีประกอบ | [ขั้นตอนสร้างดนตรีด้วย Suno](https://videoweb.ai/th/ai-music/) — มีทั้งดนตรีบรรเลงและเพลงที่มีเสียงร้อง [หน้าราคาระบุเวอร์ชันถึง 5.0](https://videoweb.ai/th/pricing/) | เลือกเวอร์ชันที่มีให้ใช้และโหมดดนตรีบรรเลงหรือโหมดเสียงร้อง ดนตรีสร้างแยกจากวิดีโอ |
+### โมเดลวิดีโอ
+
+#### [Seedance 2.5](https://videoweb.ai/th/model/seedance-2-5/)
+
+วิดีโอจากข้อความหรือภาพ และการกำกับฉากด้วยสื่ออ้างอิง
+
+**สื่อที่มีและเป้าหมาย:** คำบรรยายฉากหรือภาพสินค้า ต้องการกำกับการเผยให้เห็นสินค้าและกล้อง
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** ตรวจว่าโหมดที่เลือกใช้สื่ออ้างอิงประเภทที่คุณมีได้ ระบุการกระทำหลักหนึ่งอย่างและตอนจบให้ชัดเจน
+
+#### [MiniMax H3](https://videoweb.ai/th/model/minimax-h3/)
+
+ขั้นตอนฟรีแยกต่างหากด้านบนให้ผลลัพธ์ 5 วินาที / 480p
+
+**สื่อที่มีและเป้าหมาย:** ข้อความหรือภาพเฟรมแรกและเฟรมสุดท้ายหนึ่งคู่ ต้องการทดลองใช้ฟรีแบบสั้น
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** หากต้องการงานยาวขึ้นหรือความละเอียดสูงขึ้น หน้าโมเดลระบุว่าสร้างได้สูงสุด 15 วินาที, 2K และเสียงสเตอริโอในตัว ตรวจแบบฟอร์มขั้นสูงและค่าเครดิต
+
+#### [Wan 3.0](https://videoweb.ai/th/model/wan-3-0/)
+
+วิดีโอจากข้อความหรือภาพ เลือกระยะเวลาได้ 5–30 วินาที
+
+**สื่อที่มีและเป้าหมาย:** ภาพเริ่มต้นและองค์ประกอบภาพสุดท้ายที่วางแผนไว้ ต้องการตัวเลือกกำหนดเฟรมสุดท้าย
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** การใช้เฟรมสุดท้ายนำทางเป็นตัวเลือกเสริมในโหมดภาพที่รองรับ ตรวจว่ามีให้ใช้ในโหมดที่คุณเลือก
+
+#### [Kling 3.0](https://videoweb.ai/th/model/kling-3-0/)
+
+การกระทำของตัวละคร เสียง และการเล่าเรื่องหลายช็อต
+
+**สื่อที่มีและเป้าหมาย:** ฉากตัวละครหรือบทสนทนา ต้องการหลายช็อต
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** ตรวจตัวควบคุมช็อตและเสียงในโหมดที่เลือก ระบุรูปลักษณ์ตัวละครและผู้พูดให้ชัดเจน
+
+#### [Veo 3.1](https://videoweb.ai/th/model/veo-3-1-video/)
+
+วิดีโอสไตล์ภาพยนตร์จากข้อความหรือภาพพร้อมเสียง
+
+**สื่อที่มีและเป้าหมาย:** คำบรรยายฉากหรือภาพ ให้ความสำคัญกับการเคลื่อนกล้องและเสียงแวดล้อม
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** ตรวจระยะเวลา การตั้งค่าเสียง และค่าเครดิต H3 และ Kling ก็ระบุความสามารถด้านเสียงเช่นกัน จึงไม่ควรเลือกโมเดลจากเรื่องเสียงเพียงอย่างเดียว
+
+### โมเดลภาพ
+
+#### [GPT Image 2.5](https://videoweb.ai/th/model/gpt-image-2-5/)
+
+Flare สำหรับสำรวจไอเดีย และ Sunburst สำหรับแก้ไขอย่างละเอียด
+
+**สื่อที่มีและเป้าหมาย:** ภาพแคมเปญหรือองค์ประกอบหนึ่งอย่างที่ต้องการแก้ไข ต้องคงส่วนที่เหลือไว้
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** ระบุสิ่งที่ต้องเปลี่ยนและสิ่งที่ต้องคงเดิม ตรวจข้อจำกัดของภาพอ้างอิงในแบบฟอร์มที่เลือก โดยเฉพาะหน้าใช้ฟรีแยกต่างหาก
+
+#### [Nano Banana Pro](https://videoweb.ai/th/nano-banana-pro-ai/)
+
+สร้างภาพและรวมภาพอ้างอิง
+
+**สื่อที่มีและเป้าหมาย:** ภาพอ้างอิงหลายภาพ ต้องการรวมเป็นองค์ประกอบภาพเดียว
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** ตรวจข้อจำกัดการอัปโหลด และอธิบายหน้าที่ของแต่ละภาพว่าใช้เป็นตัวแบบ สไตล์ หรือองค์ประกอบภาพ
+
+#### [Seedream 5.0 Pro](https://videoweb.ai/th/model/seedream-5-0-pro/)
+
+สร้างและแก้ไขภาพ
+
+**สื่อที่มีและเป้าหมาย:** โปสเตอร์สินค้า การจัดวางข้อมูล หรือสตอรีบอร์ด
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** ระบุข้อความที่ต้องการอย่างตรงตัวและการจัดวาง ตรวจตัวอักษรและรายละเอียดสินค้าในผลลัพธ์
+
+### ดนตรี
+
+#### [ขั้นตอนสร้างดนตรีด้วย Suno](https://videoweb.ai/th/ai-music/)
+
+มีทั้งดนตรีบรรเลงและเพลงที่มีเสียงร้อง [หน้าราคาระบุเวอร์ชันถึง 5.0](https://videoweb.ai/th/pricing/)
+
+**สื่อที่มีและเป้าหมาย:** คำบรรยายอารมณ์หรือเนื้อเพลง ต้องการดนตรีประกอบ
+
+**สิ่งที่ต้องตรวจสอบก่อนสร้าง:** เลือกเวอร์ชันที่มีให้ใช้และโหมดดนตรีบรรเลงหรือโหมดเสียงร้อง ดนตรีสร้างแยกจากวิดีโอ
 
 เปิด[หน้าสร้างสรรค์](https://videoweb.ai/th/create/)เพื่อตรวจโหมดและค่าใช้จ่ายปัจจุบัน หน้าโมเดลอธิบายความสามารถที่เป็นไปได้ ส่วนแบบฟอร์มที่เลือกเป็นตัวกำหนดข้อมูลนำเข้าและการตั้งค่าที่คุณใช้ได้จริง
 
@@ -111,15 +183,37 @@
 
 เราแบ่งปันชุดคำสั่ง ภาพอ้างอิง และคู่มือใช้งานผ่านเบราว์เซอร์ เพื่อให้ผู้สร้างเนื้อหาเริ่มจากตัวอย่างที่เป็นรูปธรรม ปรับใช้ และเรียนรู้วิธีตรวจผลลัพธ์ ฉบับ VideoWeb คงการให้เครดิตต้นทางไว้ และแยกตัวอย่างสาธิตจากชุมชนออกจากผลลัพธ์ที่ผ่านการทดสอบ แต่ละคลังระบุแหล่งที่มาและสัญญาอนุญาตของตนเอง
 
-| แนวคิดภาพและการแก้ไข | ฉากวิดีโอและเสียง |
-| --- | --- |
-| [![ภาพปกคลังคำสั่ง VideoWeb GPT Image 2.5](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png)](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) | [![ภาพปกคลังคำสั่ง VideoWeb MiniMax H3](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp)](https://github.com/aivideoweb/awesome-minimax-h3-prompts) |
-| [**Awesome GPT Image 2.5 Prompts**](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) — แนวทางพร้อมภาพประกอบสำหรับภาพสินค้า โปสเตอร์ ภาพบุคคล การแก้ไขอย่างแม่นยำ และสตอรีบอร์ด **เหมาะกับ:** นักออกแบบและนักการตลาดที่อยากดูตัวอย่างก่อนเลือกคำสั่ง | [**Awesome MiniMax H3 Prompts**](https://github.com/aivideoweb/awesome-minimax-h3-prompts) — แนวทางสร้างช็อตที่ระบุจังหวะเวลา กล้อง สื่ออ้างอิง และเสียง พร้อมตัวอย่างจากผู้สร้างเนื้อหา **เหมาะกับ:** ผู้สร้างโฆษณา ฉากตัวละคร หรือคลิปสั้นสไตล์ภาพยนตร์ |
+### [Awesome GPT Image 2.5 Prompts](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts)
 
-| การเคลื่อนไหวและการเปลี่ยนผ่าน | วิดีโอฟรีครั้งแรก |
-| --- | --- |
-| [![ภาพปกคลังคำสั่ง VideoWeb Wan 3.0](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png)](https://github.com/aivideoweb/awesome-wan-3-0-prompts) | [![ภาพปกคู่มือขั้นตอน MiniMax H3 ฟรีของ VideoWeb](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png)](https://github.com/aivideoweb/best-free-minimax-h3) |
-| [**Awesome Wan 3.0 Prompts**](https://github.com/aivideoweb/awesome-wan-3-0-prompts) — คำอธิบายฉากสำหรับโฆษณาสินค้า แอ็กชัน บทสนทนา คลิปสื่อสังคมออนไลน์ และการควบคุมงานผลิต **เหมาะกับ:** ผู้สร้างเนื้อหาที่อยากฝึกกำกับกล้องและรักษาความต่อเนื่อง | [**Best Free MiniMax H3 Tools**](https://github.com/aivideoweb/best-free-minimax-h3) — ขั้นตอนเริ่มต้นหกแบบ คำสั่งช็อตสั้น และการเปรียบเทียบช่องทางของแบรนด์ที่เกี่ยวข้องในบริษัทเดียวกัน **เหมาะกับ:** มือใหม่ที่กำลังเลือกขั้นตอน H3 ฟรี นี่ไม่ใช่การจัดอันดับตลาดโดยอิสระ |
+<a href="https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png" alt="ภาพปกคลังคำสั่ง VideoWeb GPT Image 2.5" width="560"></a>
+
+แนวทางพร้อมภาพประกอบสำหรับภาพสินค้า โปสเตอร์ ภาพบุคคล การแก้ไขอย่างแม่นยำ และสตอรีบอร์ด
+
+**เหมาะกับ:** นักออกแบบและนักการตลาดที่อยากดูตัวอย่างก่อนเลือกคำสั่ง
+
+### [Awesome MiniMax H3 Prompts](https://github.com/aivideoweb/awesome-minimax-h3-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-minimax-h3-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp" alt="ภาพปกคลังคำสั่ง VideoWeb MiniMax H3" width="560"></a>
+
+แนวทางสร้างช็อตที่ระบุจังหวะเวลา กล้อง สื่ออ้างอิง และเสียง พร้อมตัวอย่างจากผู้สร้างเนื้อหา
+
+**เหมาะกับ:** ผู้สร้างโฆษณา ฉากตัวละคร หรือคลิปสั้นสไตล์ภาพยนตร์
+
+### [Awesome Wan 3.0 Prompts](https://github.com/aivideoweb/awesome-wan-3-0-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-wan-3-0-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png" alt="ภาพปกคลังคำสั่ง VideoWeb Wan 3.0" width="560"></a>
+
+คำอธิบายฉากสำหรับโฆษณาสินค้า แอ็กชัน บทสนทนา คลิปสื่อสังคมออนไลน์ และการควบคุมงานผลิต
+
+**เหมาะกับ:** ผู้สร้างเนื้อหาที่อยากฝึกกำกับกล้องและรักษาความต่อเนื่อง
+
+### [Best Free MiniMax H3 Tools](https://github.com/aivideoweb/best-free-minimax-h3)
+
+<a href="https://github.com/aivideoweb/best-free-minimax-h3"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png" alt="ภาพปกคู่มือขั้นตอน MiniMax H3 ฟรีของ VideoWeb" width="560"></a>
+
+ขั้นตอนเริ่มต้นหกแบบ คำสั่งช็อตสั้น และการเปรียบเทียบช่องทางของแบรนด์ที่เกี่ยวข้องในบริษัทเดียวกัน
+
+**เหมาะกับ:** มือใหม่ที่กำลังเลือกขั้นตอน H3 ฟรี นี่ไม่ใช่การจัดอันดับตลาดโดยอิสระ
 
 *ภาพปกใช้แนะนำแหล่งข้อมูล ไม่ใช่หลักฐานผลลัพธ์จากเครื่องมือสร้างสื่อฟรีที่เชื่อมโยงไว้ โปรดดูป้ายกำกับของแต่ละคลังเพื่อทราบที่มาของตัวอย่างและข้อมูลนำเข้าที่รองรับ*
 

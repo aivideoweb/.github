@@ -22,11 +22,11 @@
 
 ## 图片来源
 
-以下图片原样复制，不冒充本次生成结果。品牌标识与封面不是对免费工具效果的证明。
+以下图片来自既有品牌素材，不冒充本次生成结果。品牌标识与封面不是对免费工具效果的证明。
 
 | 本仓库文件 | 来源 |
 | --- | --- |
-| `profile/assets/videoweb-logo.svg` | [VideoWeb 官网矢量标识](https://videoweb.ai/icon.svg)；原样保留路径、渐变与 viewBox，以 160px 显示 |
+| `profile/assets/videoweb-logo.svg` | [VideoWeb 官网矢量标识](https://videoweb.ai/icon.svg)；保留原始路径与渐变，仅收紧 viewBox 留白，以 160px 显示 |
 | `profile/assets/gpt-image-library.png` | [VideoWeb GPT Image 2.5 封面](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts/blob/main/assets/images/videoweb-cover.png) |
 | `profile/assets/minimax-library.webp` | [VideoWeb H3 封面](https://github.com/aivideoweb/awesome-minimax-h3-prompts/blob/main/assets/hero-minimax-h3-video-prompts.webp) |
 | `profile/assets/wan-library.png` | [VideoWeb Wan 封面](https://github.com/aivideoweb/awesome-wan-3-0-prompts/blob/main/assets/videoweb-wan-3-hero.png) |
@@ -57,7 +57,7 @@
 
 2026-09-22 核对 [VideoWeb 官网](https://videoweb.ai/)页脚，共 15 种语言：英语、日语、葡萄牙语、西班牙语、德语、俄语、法语、简体中文、繁体中文、韩语、泰语、越南语、阿拉伯语、印尼语和意大利语。
 
-每版均包含品牌介绍、工具表、模型表、视频与音乐入门示例、四个项目、推广合作及支持方式，保留 160px Logo、彩色按钮和完整语言导航。产品名与模型名沿用品牌写法；正文、按钮文字和图片替代文字按各语言本地化。封面图片是共用的品牌素材。
+每版均包含品牌介绍、工具介绍、模型选择、视频与音乐入门示例、四个项目、推广合作及支持方式，保留 160px Logo、彩色按钮和完整语言导航。产品名与模型名沿用品牌写法；正文、按钮文字和图片替代文字按各语言本地化。封面图片是共用的品牌素材。
 
 语言导航由 `scripts/profile_languages.py` 维护。更新导航运行 `python3 scripts/profile_languages.py --write`；检查所有语言的结构、目标链接、关键数字与图片数量运行 `python3 scripts/profile_languages.py`。结构检查不能替代翻译质量复核。
 
@@ -84,3 +84,12 @@
 维护检查改为逐个段落、表格条目核对链接及其顺序，按对应商业条目核对完整数值，检查练习正文非空及本地图片存在。21 项回归测试覆盖交换工具链接、40 改成 400、100 改成 1000、清空练习等错误；翻译语义与模型效果仍需人工复核。
 
 本轮独立复核：英文内容改进及东亚四版、欧洲五版、俄语／泰语／越南语／印尼语／阿拉伯语五版均经子代理交叉审阅，无剩余必改语义项。主执行者最后独自对照源主页和完整读者路径，确认入口选择、首次实践、资源衔接及合作支持均有对应内容；没有新增未经核验的模型排名或生成效果承诺。15 版均通过 GitHub Markdown 渲染；在实际简中正文的内存副本中模拟四类错误，检查均正确拒绝，原文件未写入错误。
+
+
+## 对照源库的排版优化
+
+保留全部语言正文及已核验的产品入口，将七张表缩减为两张：仅辅助工具和佣金规则使用表格。任务入口改为列表，免费生成工具改为独立条目，九个模型按视频、图片和音乐分组。四个开源项目采用独立三级标题、560px 等比例封面、简介和适用人群，便于逐项浏览。
+
+首屏保留三个彩色主按钮，次级入口改为粗体文字链接；15 种语言徽章放在同一段内自动换行，减少段间空白。Logo 保留 160px 显示尺寸，收紧内部留白，使实际图案更醒目。
+
+独立审阅核对内容保留和排版，并修正改版后残留的“下表”措辞。维护检查覆盖标题内链接、模型分类和条目，27 项回归测试通过。该轮仅调整信息呈现，不改变已核验的工具条件与商业规则。

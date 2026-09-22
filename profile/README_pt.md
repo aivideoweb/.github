@@ -9,16 +9,12 @@
 [![Experimente vídeos gratuitos](https://img.shields.io/badge/Experimente%20v%C3%ADdeos%20gratuitos-6D4AFF?style=for-the-badge)](https://videoweb.ai/pt/free-minimax-h3/)
 [![Experimente imagens gratuitas](https://img.shields.io/badge/Experimente%20imagens%20gratuitas-147D92?style=for-the-badge)](https://videoweb.ai/pt/free-gpt-image-2-5/)
 
-[![Explore projetos de código aberto](https://img.shields.io/badge/Explore%20projetos%20de%20c%C3%B3digo%20aberto-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aivideoweb/repositories) [![Planos e créditos](https://img.shields.io/badge/Planos%20e%20cr%C3%A9ditos-59636E?style=for-the-badge)](https://videoweb.ai/pt/pricing/)
+[**Explore projetos de código aberto →**](https://github.com/orgs/aivideoweb/repositories) [**Planos e créditos →**](https://videoweb.ai/pt/pricing/)
 
 </div>
 
 <!-- LANGUAGE_NAV_START -->
-[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md)
-
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md)
-
-[![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
+[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md) [![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
 <!-- LANGUAGE_NAV_END -->
 
 [**🎁 Ferramentas gratuitas**](#user-content-free-tools) · [**🎬 Escolha um modelo**](#user-content-models) · [**▶ Seu primeiro vídeo**](#user-content-start) · [**📚 Recursos de código aberto**](#user-content-projects) · [**🤝 Seja nosso parceiro**](#user-content-partners)
@@ -29,12 +25,10 @@ O [VideoWeb AI](https://videoweb.ai/pt/) reúne geração de vídeos com intelig
 
 Crie uma apresentação de produto, um vídeo vertical para redes sociais, uma imagem de campanha ou uma abertura de aula. Nossos recursos no GitHub ajudam a responder à próxima pergunta: **o que devo pedir ao modelo que crie e o que devo verificar no resultado?**
 
-| O que você quer criar | Por onde começar |
-| --- | --- |
-| Uma cena curta a partir de uma ideia | [Texto para vídeo](https://videoweb.ai/pt/text-to-video/) — descreva o elemento principal da cena, a ação, a câmera e o som |
-| Movimento a partir de uma foto de produto ou roteiro visual | [Imagem para vídeo](https://videoweb.ai/pt/image-to-video/) — forneça sua imagem e descreva o que se move |
-| Uma miniatura, um pôster ou uma imagem de produto revisada | [Gerador de imagens com inteligência artificial](https://videoweb.ai/pt/ai-image-generator/) — escreva uma descrição ou indique a edição desejada |
-| Música para um projeto criativo | [Gerador de música com inteligência artificial](https://videoweb.ai/pt/ai-music/) — comece pelo clima e pela direção musical |
+- **Uma cena curta a partir de uma ideia** — [Texto para vídeo](https://videoweb.ai/pt/text-to-video/) — descreva o elemento principal da cena, a ação, a câmera e o som
+- **Movimento a partir de uma foto de produto ou roteiro visual** — [Imagem para vídeo](https://videoweb.ai/pt/image-to-video/) — forneça sua imagem e descreva o que se move
+- **Uma miniatura, um pôster ou uma imagem de produto revisada** — [Gerador de imagens com inteligência artificial](https://videoweb.ai/pt/ai-image-generator/) — escreva uma descrição ou indique a edição desejada
+- **Música para um projeto criativo** — [Gerador de música com inteligência artificial](https://videoweb.ai/pt/ai-music/) — comece pelo clima e pela direção musical
 
 <a id="free-tools"></a>
 
@@ -42,11 +36,23 @@ Crie uma apresentação de produto, um vídeo vertical para redes sociais, uma i
 
 ### Crie seu primeiro vídeo ou imagem
 
-| Ferramenta | Para que usar | O que saber antes de começar |
-| --- | --- | --- |
-| Processo gratuito H3: [texto ou imagens inicial e final](https://videoweb.ai/pt/free-minimax-h3/) · [acesso guiado por imagens](https://videoweb.ai/pt/free-image-to-video/) | Experimente uma cena curta: comece com texto se não tiver imagens; use tanto a imagem inicial quanto a final para planejar uma transição | Os dois acessos usam o mesmo processo H3: sem cadastro, 0 créditos, **5 segundos em 480p**. São duas páginas de acesso, não dois modelos diferentes. |
-| [GPT Image 2.5 gratuito](https://videoweb.ai/pt/free-gpt-image-2-5/) | Esboçar uma imagem de campanha, um quadro de roteiro visual ou uma revisão de imagem | A página informa que não é necessário cadastro; aceita texto ou **uma imagem de referência**, com nove proporções de imagem. |
-| [Nano Banana gratuito](https://videoweb.ai/pt/free-nano-banana/) | Explorar conceitos visuais, edições de fotos e variações de estilo | A página informa que não é necessário cadastro; comece com uma instrução e, se quiser, uma imagem. |
+#### Processo gratuito H3: [texto ou imagens inicial e final](https://videoweb.ai/pt/free-minimax-h3/) · [acesso guiado por imagens](https://videoweb.ai/pt/free-image-to-video/)
+
+**Para que usar:** Experimente uma cena curta: comece com texto se não tiver imagens; use tanto a imagem inicial quanto a final para planejar uma transição
+
+**O que saber antes de começar:** Os dois acessos usam o mesmo processo H3: sem cadastro, 0 créditos, **5 segundos em 480p**. São duas páginas de acesso, não dois modelos diferentes.
+
+#### [GPT Image 2.5 gratuito](https://videoweb.ai/pt/free-gpt-image-2-5/)
+
+**Para que usar:** Esboçar uma imagem de campanha, um quadro de roteiro visual ou uma revisão de imagem
+
+**O que saber antes de começar:** A página informa que não é necessário cadastro; aceita texto ou **uma imagem de referência**, com nove proporções de imagem.
+
+#### [Nano Banana gratuito](https://videoweb.ai/pt/free-nano-banana/)
+
+**Para que usar:** Explorar conceitos visuais, edições de fotos e variações de estilo
+
+**O que saber antes de começar:** A página informa que não é necessário cadastro; comece com uma instrução e, se quiser, uma imagem.
 
 ### Prepare, descreva e exporte seus materiais
 
@@ -66,17 +72,83 @@ Crie uma apresentação de produto, um vídeo vertical para redes sociais, uma i
 
 Comece pelo material que você tem e pelos requisitos que o resultado precisa atender. As opções abaixo vêm das páginas de produtos vinculadas; são candidatas para começar, não uma classificação de qualidade. Se vários modelos servirem, compare a mesma descrição curta nos modos disponíveis e confira o custo em créditos exibido antes de gerar.
 
-| Seu material e objetivo | Por onde começar | O que confirmar antes de gerar |
-| --- | --- | --- |
-| Uma cena escrita ou uma foto de produto; você quer dirigir a revelação e a câmera | [Seedance 2.5](https://videoweb.ai/pt/model/seedance-2-5/) — vídeo a partir de texto ou imagens e direção de cena guiada por referências | Confira se o modo escolhido aceita seu tipo de referência; descreva uma ação principal e um final claro |
-| Texto ou um par de imagens inicial e final; você quer um teste curto e gratuito | [MiniMax H3](https://videoweb.ai/pt/model/minimax-h3/) — o processo gratuito separado acima oferece 5 s / 480p | Para trabalhos mais longos ou com maior resolução, a página do modelo descreve até 15 s, 2K e áudio estéreo nativo; confira o formulário avançado e os créditos necessários |
-| Uma imagem inicial e uma composição final planejada; você precisa de uma opção de quadro final | [Wan 3.0](https://videoweb.ai/pt/model/wan-3-0/) — vídeo a partir de texto ou imagens, com durações de 5–30 s | A orientação por quadro final é opcional nos modos de imagem compatíveis; confirme se está disponível no modo selecionado |
-| Uma cena com personagens ou um diálogo; você precisa de várias tomadas | [Kling 3.0](https://videoweb.ai/pt/model/kling-3-0/) — ações de personagens, áudio e narrativa com várias tomadas | Confira os controles de tomadas e áudio do modo escolhido; deixe explícitas a aparência dos personagens e as instruções sobre quem fala |
-| Uma descrição de cena ou uma imagem; o movimento de câmera e o som ambiente importam | [Veo 3.1](https://videoweb.ai/pt/model/veo-3-1-video/) — vídeo cinematográfico a partir de texto ou imagens, com áudio | Confirme a duração, as configurações de áudio e o custo em créditos; H3 e Kling também descrevem áudio, então o som sozinho não define o modelo |
-| Uma imagem de campanha ou um elemento para alterar; você precisa preservar o restante | [GPT Image 2.5](https://videoweb.ai/pt/model/gpt-image-2-5/) — Flare para explorar, Sunburst para edição detalhada | Informe a alteração e o que deve permanecer igual; confira os limites de referências no formulário escolhido, principalmente no acesso gratuito separado |
-| Várias referências visuais que você quer reunir em uma composição | [Nano Banana Pro](https://videoweb.ai/pt/nano-banana-pro-ai/) — criação de imagens e combinação de referências | Confira os limites de envio e descreva a função de cada imagem: elemento principal, estilo ou composição |
-| Um cartaz de produto, uma apresentação visual de informações ou um roteiro ilustrado | [Seedream 5.0 Pro](https://videoweb.ai/pt/model/seedream-5-0-pro/) — geração e edição de imagens | Especifique o texto exato e a disposição dos elementos; revise as letras e os detalhes do produto no resultado |
-| Uma descrição do clima desejado ou uma letra; você precisa de uma trilha sonora | [Criação musical com Suno](https://videoweb.ai/pt/ai-music/) — opções instrumentais e vocais; [a página de preços lista versões até a 5.0](https://videoweb.ai/pt/pricing/) | Escolha uma versão disponível e o modo Instrumental ou vocal; a música é gerada separadamente do vídeo |
+### Modelos de vídeo
+
+#### [Seedance 2.5](https://videoweb.ai/pt/model/seedance-2-5/)
+
+vídeo a partir de texto ou imagens e direção de cena guiada por referências
+
+**Seu material e objetivo:** Uma cena escrita ou uma foto de produto; você quer dirigir a revelação e a câmera
+
+**O que confirmar antes de gerar:** Confira se o modo escolhido aceita seu tipo de referência; descreva uma ação principal e um final claro
+
+#### [MiniMax H3](https://videoweb.ai/pt/model/minimax-h3/)
+
+o processo gratuito separado acima oferece 5 s / 480p
+
+**Seu material e objetivo:** Texto ou um par de imagens inicial e final; você quer um teste curto e gratuito
+
+**O que confirmar antes de gerar:** Para trabalhos mais longos ou com maior resolução, a página do modelo descreve até 15 s, 2K e áudio estéreo nativo; confira o formulário avançado e os créditos necessários
+
+#### [Wan 3.0](https://videoweb.ai/pt/model/wan-3-0/)
+
+vídeo a partir de texto ou imagens, com durações de 5–30 s
+
+**Seu material e objetivo:** Uma imagem inicial e uma composição final planejada; você precisa de uma opção de quadro final
+
+**O que confirmar antes de gerar:** A orientação por quadro final é opcional nos modos de imagem compatíveis; confirme se está disponível no modo selecionado
+
+#### [Kling 3.0](https://videoweb.ai/pt/model/kling-3-0/)
+
+ações de personagens, áudio e narrativa com várias tomadas
+
+**Seu material e objetivo:** Uma cena com personagens ou um diálogo; você precisa de várias tomadas
+
+**O que confirmar antes de gerar:** Confira os controles de tomadas e áudio do modo escolhido; deixe explícitas a aparência dos personagens e as instruções sobre quem fala
+
+#### [Veo 3.1](https://videoweb.ai/pt/model/veo-3-1-video/)
+
+vídeo cinematográfico a partir de texto ou imagens, com áudio
+
+**Seu material e objetivo:** Uma descrição de cena ou uma imagem; o movimento de câmera e o som ambiente importam
+
+**O que confirmar antes de gerar:** Confirme a duração, as configurações de áudio e o custo em créditos; H3 e Kling também descrevem áudio, então o som sozinho não define o modelo
+
+### Modelos de imagem
+
+#### [GPT Image 2.5](https://videoweb.ai/pt/model/gpt-image-2-5/)
+
+Flare para explorar, Sunburst para edição detalhada
+
+**Seu material e objetivo:** Uma imagem de campanha ou um elemento para alterar; você precisa preservar o restante
+
+**O que confirmar antes de gerar:** Informe a alteração e o que deve permanecer igual; confira os limites de referências no formulário escolhido, principalmente no acesso gratuito separado
+
+#### [Nano Banana Pro](https://videoweb.ai/pt/nano-banana-pro-ai/)
+
+criação de imagens e combinação de referências
+
+**Seu material e objetivo:** Várias referências visuais que você quer reunir em uma composição
+
+**O que confirmar antes de gerar:** Confira os limites de envio e descreva a função de cada imagem: elemento principal, estilo ou composição
+
+#### [Seedream 5.0 Pro](https://videoweb.ai/pt/model/seedream-5-0-pro/)
+
+geração e edição de imagens
+
+**Seu material e objetivo:** Um cartaz de produto, uma apresentação visual de informações ou um roteiro ilustrado
+
+**O que confirmar antes de gerar:** Especifique o texto exato e a disposição dos elementos; revise as letras e os detalhes do produto no resultado
+
+### Música
+
+#### [Criação musical com Suno](https://videoweb.ai/pt/ai-music/)
+
+opções instrumentais e vocais; [a página de preços lista versões até a 5.0](https://videoweb.ai/pt/pricing/)
+
+**Seu material e objetivo:** Uma descrição do clima desejado ou uma letra; você precisa de uma trilha sonora
+
+**O que confirmar antes de gerar:** Escolha uma versão disponível e o modo Instrumental ou vocal; a música é gerada separadamente do vídeo
 
 Abra o [espaço de criação](https://videoweb.ai/pt/create/) para conferir os modos e custos atuais. A página de um modelo descreve possibilidades; o formulário selecionado determina as entradas e configurações que você pode realmente usar.
 
@@ -113,15 +185,37 @@ Este exercício não foi testado por geração. A proposta é criar uma cena des
 
 Compartilhamos coleções de instruções, referências visuais e guias de uso no navegador para que os criadores partam de um exemplo concreto, adaptem-no e aprendam a avaliar o resultado. As edições do VideoWeb preservam os créditos das fontes originais e distinguem demonstrações da comunidade de resultados testados. Cada repositório explica suas próprias fontes e licença.
 
-| Conceitos visuais e edição | Cenas de vídeo e som |
-| --- | --- |
-| [![Capa da biblioteca de instruções VideoWeb GPT Image 2.5](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png)](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) | [![Capa da biblioteca de instruções VideoWeb MiniMax H3](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp)](https://github.com/aivideoweb/awesome-minimax-h3-prompts) |
-| [**Awesome GPT Image 2.5 Prompts**](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) — Receitas ilustradas para imagens de produto, pôsteres, retratos, edições precisas e roteiros visuais. **Ideal para:** designers e profissionais de marketing que desejam ver exemplos antes de escolher uma instrução. | [**Awesome MiniMax H3 Prompts**](https://github.com/aivideoweb/awesome-minimax-h3-prompts) — Receitas de tomadas com orientação de tempo, câmera, referências e som, além de exemplos de criadores. **Ideal para:** criadores que desenvolvem anúncios, cenas com personagens ou curtas cinematográficos. |
+### [Awesome GPT Image 2.5 Prompts](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts)
 
-| Movimento e transições | Um primeiro vídeo gratuito |
-| --- | --- |
-| [![Capa da biblioteca de instruções VideoWeb Wan 3.0](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png)](https://github.com/aivideoweb/awesome-wan-3-0-prompts) | [![Capa do guia de criação gratuita com MiniMax H3 do VideoWeb](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png)](https://github.com/aivideoweb/best-free-minimax-h3) |
-| [**Awesome Wan 3.0 Prompts**](https://github.com/aivideoweb/awesome-wan-3-0-prompts) — Descrições de cenas para anúncios de produtos, ação, diálogo, vídeos sociais e controle de produção. **Ideal para:** criadores que querem praticar direção de câmera e continuidade. | [**Best Free MiniMax H3 Tools**](https://github.com/aivideoweb/best-free-minimax-h3) — Seis processos para começar, instruções para tomadas curtas e uma comparação de acessos oferecidos por marcas relacionadas da mesma empresa. **Ideal para:** iniciantes escolhendo uma forma gratuita de criar com H3. Não é uma classificação independente do mercado. |
+<a href="https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png" alt="Capa da biblioteca de instruções VideoWeb GPT Image 2.5" width="560"></a>
+
+Receitas ilustradas para imagens de produto, pôsteres, retratos, edições precisas e roteiros visuais.
+
+**Ideal para:** designers e profissionais de marketing que desejam ver exemplos antes de escolher uma instrução.
+
+### [Awesome MiniMax H3 Prompts](https://github.com/aivideoweb/awesome-minimax-h3-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-minimax-h3-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp" alt="Capa da biblioteca de instruções VideoWeb MiniMax H3" width="560"></a>
+
+Receitas de tomadas com orientação de tempo, câmera, referências e som, além de exemplos de criadores.
+
+**Ideal para:** criadores que desenvolvem anúncios, cenas com personagens ou curtas cinematográficos.
+
+### [Awesome Wan 3.0 Prompts](https://github.com/aivideoweb/awesome-wan-3-0-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-wan-3-0-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png" alt="Capa da biblioteca de instruções VideoWeb Wan 3.0" width="560"></a>
+
+Descrições de cenas para anúncios de produtos, ação, diálogo, vídeos sociais e controle de produção.
+
+**Ideal para:** criadores que querem praticar direção de câmera e continuidade.
+
+### [Best Free MiniMax H3 Tools](https://github.com/aivideoweb/best-free-minimax-h3)
+
+<a href="https://github.com/aivideoweb/best-free-minimax-h3"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png" alt="Capa do guia de criação gratuita com MiniMax H3 do VideoWeb" width="560"></a>
+
+Seis processos para começar, instruções para tomadas curtas e uma comparação de acessos oferecidos por marcas relacionadas da mesma empresa.
+
+**Ideal para:** iniciantes escolhendo uma forma gratuita de criar com H3. Não é uma classificação independente do mercado.
 
 *As capas ilustram os recursos; não comprovam resultados dos geradores gratuitos vinculados. Consulte as indicações de cada repositório sobre a origem dos exemplos e as entradas compatíveis.*
 

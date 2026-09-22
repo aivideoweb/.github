@@ -9,16 +9,12 @@
 [![Thử tạo video miễn phí](https://img.shields.io/badge/Th%E1%BB%AD%20t%E1%BA%A1o%20video%20mi%E1%BB%85n%20ph%C3%AD-6D4AFF?style=for-the-badge)](https://videoweb.ai/vi/free-minimax-h3/)
 [![Thử tạo ảnh miễn phí](https://img.shields.io/badge/Th%E1%BB%AD%20t%E1%BA%A1o%20%E1%BA%A3nh%20mi%E1%BB%85n%20ph%C3%AD-147D92?style=for-the-badge)](https://videoweb.ai/vi/free-gpt-image-2-5/)
 
-[![Khám phá mã nguồn mở](https://img.shields.io/badge/Kh%C3%A1m%20ph%C3%A1%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aivideoweb/repositories) [![Gói dịch vụ và điểm](https://img.shields.io/badge/G%C3%B3i%20d%E1%BB%8Bch%20v%E1%BB%A5%20v%C3%A0%20%C4%91i%E1%BB%83m-59636E?style=for-the-badge)](https://videoweb.ai/vi/pricing/)
+[**Khám phá mã nguồn mở →**](https://github.com/orgs/aivideoweb/repositories) [**Gói dịch vụ và điểm →**](https://videoweb.ai/vi/pricing/)
 
 </div>
 
 <!-- LANGUAGE_NAV_START -->
-[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md)
-
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md)
-
-[![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
+[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md) [![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
 <!-- LANGUAGE_NAV_END -->
 
 [**🎁 Công cụ miễn phí**](#user-content-free-tools) · [**🎬 Chọn mô hình**](#user-content-models) · [**▶ Đoạn phim đầu tiên**](#user-content-start) · [**📚 Tài nguyên mã nguồn mở**](#user-content-projects) · [**🤝 Hợp tác cùng chúng tôi**](#user-content-partners)
@@ -29,12 +25,10 @@
 
 Bạn có thể làm video giới thiệu sản phẩm, đoạn phim dọc cho mạng xã hội, hình ảnh chiến dịch hoặc phần mở đầu bài học. Tài nguyên GitHub của chúng tôi giúp bạn trả lời câu hỏi tiếp theo: **nên yêu cầu mô hình tạo những gì và cần kiểm tra điều gì trong kết quả?**
 
-| Bạn muốn tạo gì | Bắt đầu từ đâu |
-| --- | --- |
-| Một cảnh ngắn từ ý tưởng | [Văn bản thành video](https://videoweb.ai/vi/text-to-video/) — mô tả chủ thể, hành động, máy quay và âm thanh |
-| Chuyển động từ ảnh sản phẩm hoặc hình phân cảnh | [Ảnh thành video](https://videoweb.ai/vi/image-to-video/) — cung cấp ảnh và mô tả những gì chuyển động |
-| Ảnh thu nhỏ, áp phích hoặc ảnh sản phẩm đã chỉnh sửa | [Công cụ tạo ảnh bằng trí tuệ nhân tạo](https://videoweb.ai/vi/ai-image-generator/) — viết mô tả hoặc chỉ rõ cách chỉnh sửa |
-| Âm nhạc cho dự án sáng tạo | [Công cụ tạo nhạc bằng trí tuệ nhân tạo](https://videoweb.ai/vi/ai-music/) — bắt đầu từ cảm xúc và định hướng âm nhạc |
+- **Một cảnh ngắn từ ý tưởng** — [Văn bản thành video](https://videoweb.ai/vi/text-to-video/) — mô tả chủ thể, hành động, máy quay và âm thanh
+- **Chuyển động từ ảnh sản phẩm hoặc hình phân cảnh** — [Ảnh thành video](https://videoweb.ai/vi/image-to-video/) — cung cấp ảnh và mô tả những gì chuyển động
+- **Ảnh thu nhỏ, áp phích hoặc ảnh sản phẩm đã chỉnh sửa** — [Công cụ tạo ảnh bằng trí tuệ nhân tạo](https://videoweb.ai/vi/ai-image-generator/) — viết mô tả hoặc chỉ rõ cách chỉnh sửa
+- **Âm nhạc cho dự án sáng tạo** — [Công cụ tạo nhạc bằng trí tuệ nhân tạo](https://videoweb.ai/vi/ai-music/) — bắt đầu từ cảm xúc và định hướng âm nhạc
 
 <a id="free-tools"></a>
 
@@ -42,11 +36,23 @@ Bạn có thể làm video giới thiệu sản phẩm, đoạn phim dọc cho m
 
 ### Tạo video hoặc hình ảnh đầu tiên
 
-| Công cụ | Dùng để làm gì | Điều cần biết trước khi bắt đầu |
-| --- | --- | --- |
-| Quy trình H3 miễn phí: [văn bản hoặc ảnh đầu/cuối](https://videoweb.ai/vi/free-minimax-h3/) · [trang bắt đầu với ảnh định hướng](https://videoweb.ai/vi/free-image-to-video/) | Thử một cảnh ngắn: bắt đầu bằng văn bản nếu chưa có ảnh; dùng cả ảnh mở đầu và kết thúc cho chuyển tiếp đã lên kế hoạch | Cả hai trang dùng cùng một quy trình H3: không cần đăng ký, 0 điểm, **5 giây ở 480p**. Đây là hai trang truy cập, không phải hai mô hình khác nhau. |
-| [GPT Image 2.5 miễn phí](https://videoweb.ai/vi/free-gpt-image-2-5/) | Phác thảo hình ảnh chiến dịch, khung hình phân cảnh hoặc chỉnh sửa ảnh | Trang ghi không cần đăng ký; dùng văn bản hoặc **một ảnh tham chiếu**, với chín tỷ lệ khung hình. |
-| [Nano Banana miễn phí](https://videoweb.ai/vi/free-nano-banana/) | Khám phá ý tưởng hình ảnh, chỉnh sửa ảnh và biến thể phong cách | Trang ghi không cần đăng ký; bắt đầu bằng câu lệnh và ảnh tùy chọn. |
+#### Quy trình H3 miễn phí: [văn bản hoặc ảnh đầu/cuối](https://videoweb.ai/vi/free-minimax-h3/) · [trang bắt đầu với ảnh định hướng](https://videoweb.ai/vi/free-image-to-video/)
+
+**Dùng để làm gì:** Thử một cảnh ngắn: bắt đầu bằng văn bản nếu chưa có ảnh; dùng cả ảnh mở đầu và kết thúc cho chuyển tiếp đã lên kế hoạch
+
+**Điều cần biết trước khi bắt đầu:** Cả hai trang dùng cùng một quy trình H3: không cần đăng ký, 0 điểm, **5 giây ở 480p**. Đây là hai trang truy cập, không phải hai mô hình khác nhau.
+
+#### [GPT Image 2.5 miễn phí](https://videoweb.ai/vi/free-gpt-image-2-5/)
+
+**Dùng để làm gì:** Phác thảo hình ảnh chiến dịch, khung hình phân cảnh hoặc chỉnh sửa ảnh
+
+**Điều cần biết trước khi bắt đầu:** Trang ghi không cần đăng ký; dùng văn bản hoặc **một ảnh tham chiếu**, với chín tỷ lệ khung hình.
+
+#### [Nano Banana miễn phí](https://videoweb.ai/vi/free-nano-banana/)
+
+**Dùng để làm gì:** Khám phá ý tưởng hình ảnh, chỉnh sửa ảnh và biến thể phong cách
+
+**Điều cần biết trước khi bắt đầu:** Trang ghi không cần đăng ký; bắt đầu bằng câu lệnh và ảnh tùy chọn.
 
 ### Chuẩn bị, mô tả và xuất tư liệu
 
@@ -66,17 +72,83 @@ Bạn có thể làm video giới thiệu sản phẩm, đoạn phim dọc cho m
 
 Bắt đầu từ tư liệu bạn có và yêu cầu mà kết quả cần đáp ứng. Các lựa chọn dưới đây lấy từ những trang sản phẩm được liên kết; đây là các mô hình để cân nhắc thử trước, không phải bảng xếp hạng chất lượng. Nếu có nhiều mô hình phù hợp, hãy so sánh cùng một mô tả ngắn trong các chế độ có sẵn và kiểm tra chi phí điểm hiển thị trước khi tạo.
 
-| Tư liệu và mục tiêu của bạn | Nên bắt đầu ở đâu | Cần xác nhận gì trước khi tạo |
-| --- | --- | --- |
-| Mô tả cảnh hoặc ảnh sản phẩm; bạn muốn điều khiển cách sản phẩm xuất hiện và máy quay | [Seedance 2.5](https://videoweb.ai/vi/model/seedance-2-5/) — video từ văn bản/ảnh và dàn dựng cảnh theo tư liệu tham chiếu | Kiểm tra chế độ đã chọn có nhận loại tư liệu tham chiếu của bạn không; mô tả một hành động chính và phần kết rõ ràng |
-| Văn bản hoặc cặp ảnh đầu/cuối; bạn muốn thử miễn phí một đoạn ngắn | [MiniMax H3](https://videoweb.ai/vi/model/minimax-h3/) — quy trình miễn phí riêng ở trên cho kết quả 5 giây / 480p | Với video dài hơn hoặc độ phân giải cao hơn, trang mô hình mô tả mức tối đa 15 giây, 2K và âm thanh stereo tích hợp; kiểm tra biểu mẫu nâng cao và chi phí điểm |
-| Ảnh mở đầu và bố cục cuối đã lên kế hoạch; bạn cần tùy chọn khung hình kết thúc | [Wan 3.0](https://videoweb.ai/vi/model/wan-3-0/) — video từ văn bản/ảnh, lựa chọn thời lượng 5–30 giây | Định hướng bằng khung hình cuối là tùy chọn trong các chế độ ảnh được hỗ trợ; xác nhận chế độ bạn chọn có tùy chọn này |
-| Cảnh nhân vật hoặc hội thoại; bạn cần nhiều cảnh quay | [Kling 3.0](https://videoweb.ai/vi/model/kling-3-0/) — hành động nhân vật, âm thanh và kể chuyện qua nhiều cảnh quay | Kiểm tra các điều khiển cảnh quay và âm thanh trong chế độ đã chọn; mô tả rõ ngoại hình nhân vật và chỉ dẫn ai đang nói |
-| Mô tả cảnh hoặc ảnh; chuyển động máy quay và âm thanh môi trường là yếu tố quan trọng | [Veo 3.1](https://videoweb.ai/vi/model/veo-3-1-video/) — video mang phong cách điện ảnh từ văn bản/ảnh, có âm thanh | Xác nhận thời lượng, thiết lập âm thanh và chi phí điểm; H3 và Kling cũng có mô tả về âm thanh, nên không thể chỉ dựa vào âm thanh để chọn mô hình |
-| Ảnh chiến dịch hoặc một chi tiết cần sửa; bạn cần giữ nguyên phần còn lại | [GPT Image 2.5](https://videoweb.ai/vi/model/gpt-image-2-5/) — Flare để khám phá ý tưởng, Sunburst để chỉnh sửa chi tiết | Nêu rõ thay đổi và những gì phải giữ nguyên; kiểm tra giới hạn tư liệu tham chiếu trong biểu mẫu đã chọn, nhất là trang miễn phí riêng |
-| Nhiều ảnh tham chiếu; bạn muốn kết hợp chúng thành một bố cục | [Nano Banana Pro](https://videoweb.ai/vi/nano-banana-pro-ai/) — tạo ảnh và kết hợp tư liệu tham chiếu | Kiểm tra giới hạn tải lên và mô tả vai trò của từng ảnh: chủ thể, phong cách hay bố cục |
-| Áp phích sản phẩm, bố cục thông tin hoặc bảng phân cảnh | [Seedream 5.0 Pro](https://videoweb.ai/vi/model/seedream-5-0-pro/) — tạo và chỉnh sửa ảnh | Chỉ định chính xác nội dung chữ và bố cục; kiểm tra chữ cùng chi tiết sản phẩm trong kết quả |
-| Mô tả cảm xúc hoặc lời bài hát; bạn cần nhạc nền | [Quy trình tạo nhạc Suno](https://videoweb.ai/vi/ai-music/) — có tùy chọn nhạc không lời và có giọng hát; [trang giá liệt kê các phiên bản đến 5.0](https://videoweb.ai/vi/pricing/) | Chọn phiên bản có sẵn và chế độ nhạc không lời hoặc có giọng hát; nhạc được tạo riêng với video |
+### Mô hình video
+
+#### [Seedance 2.5](https://videoweb.ai/vi/model/seedance-2-5/)
+
+video từ văn bản/ảnh và dàn dựng cảnh theo tư liệu tham chiếu
+
+**Tư liệu và mục tiêu của bạn:** Mô tả cảnh hoặc ảnh sản phẩm; bạn muốn điều khiển cách sản phẩm xuất hiện và máy quay
+
+**Cần xác nhận gì trước khi tạo:** Kiểm tra chế độ đã chọn có nhận loại tư liệu tham chiếu của bạn không; mô tả một hành động chính và phần kết rõ ràng
+
+#### [MiniMax H3](https://videoweb.ai/vi/model/minimax-h3/)
+
+quy trình miễn phí riêng ở trên cho kết quả 5 giây / 480p
+
+**Tư liệu và mục tiêu của bạn:** Văn bản hoặc cặp ảnh đầu/cuối; bạn muốn thử miễn phí một đoạn ngắn
+
+**Cần xác nhận gì trước khi tạo:** Với video dài hơn hoặc độ phân giải cao hơn, trang mô hình mô tả mức tối đa 15 giây, 2K và âm thanh stereo tích hợp; kiểm tra biểu mẫu nâng cao và chi phí điểm
+
+#### [Wan 3.0](https://videoweb.ai/vi/model/wan-3-0/)
+
+video từ văn bản/ảnh, lựa chọn thời lượng 5–30 giây
+
+**Tư liệu và mục tiêu của bạn:** Ảnh mở đầu và bố cục cuối đã lên kế hoạch; bạn cần tùy chọn khung hình kết thúc
+
+**Cần xác nhận gì trước khi tạo:** Định hướng bằng khung hình cuối là tùy chọn trong các chế độ ảnh được hỗ trợ; xác nhận chế độ bạn chọn có tùy chọn này
+
+#### [Kling 3.0](https://videoweb.ai/vi/model/kling-3-0/)
+
+hành động nhân vật, âm thanh và kể chuyện qua nhiều cảnh quay
+
+**Tư liệu và mục tiêu của bạn:** Cảnh nhân vật hoặc hội thoại; bạn cần nhiều cảnh quay
+
+**Cần xác nhận gì trước khi tạo:** Kiểm tra các điều khiển cảnh quay và âm thanh trong chế độ đã chọn; mô tả rõ ngoại hình nhân vật và chỉ dẫn ai đang nói
+
+#### [Veo 3.1](https://videoweb.ai/vi/model/veo-3-1-video/)
+
+video mang phong cách điện ảnh từ văn bản/ảnh, có âm thanh
+
+**Tư liệu và mục tiêu của bạn:** Mô tả cảnh hoặc ảnh; chuyển động máy quay và âm thanh môi trường là yếu tố quan trọng
+
+**Cần xác nhận gì trước khi tạo:** Xác nhận thời lượng, thiết lập âm thanh và chi phí điểm; H3 và Kling cũng có mô tả về âm thanh, nên không thể chỉ dựa vào âm thanh để chọn mô hình
+
+### Mô hình hình ảnh
+
+#### [GPT Image 2.5](https://videoweb.ai/vi/model/gpt-image-2-5/)
+
+Flare để khám phá ý tưởng, Sunburst để chỉnh sửa chi tiết
+
+**Tư liệu và mục tiêu của bạn:** Ảnh chiến dịch hoặc một chi tiết cần sửa; bạn cần giữ nguyên phần còn lại
+
+**Cần xác nhận gì trước khi tạo:** Nêu rõ thay đổi và những gì phải giữ nguyên; kiểm tra giới hạn tư liệu tham chiếu trong biểu mẫu đã chọn, nhất là trang miễn phí riêng
+
+#### [Nano Banana Pro](https://videoweb.ai/vi/nano-banana-pro-ai/)
+
+tạo ảnh và kết hợp tư liệu tham chiếu
+
+**Tư liệu và mục tiêu của bạn:** Nhiều ảnh tham chiếu; bạn muốn kết hợp chúng thành một bố cục
+
+**Cần xác nhận gì trước khi tạo:** Kiểm tra giới hạn tải lên và mô tả vai trò của từng ảnh: chủ thể, phong cách hay bố cục
+
+#### [Seedream 5.0 Pro](https://videoweb.ai/vi/model/seedream-5-0-pro/)
+
+tạo và chỉnh sửa ảnh
+
+**Tư liệu và mục tiêu của bạn:** Áp phích sản phẩm, bố cục thông tin hoặc bảng phân cảnh
+
+**Cần xác nhận gì trước khi tạo:** Chỉ định chính xác nội dung chữ và bố cục; kiểm tra chữ cùng chi tiết sản phẩm trong kết quả
+
+### Âm nhạc
+
+#### [Quy trình tạo nhạc Suno](https://videoweb.ai/vi/ai-music/)
+
+có tùy chọn nhạc không lời và có giọng hát; [trang giá liệt kê các phiên bản đến 5.0](https://videoweb.ai/vi/pricing/)
+
+**Tư liệu và mục tiêu của bạn:** Mô tả cảm xúc hoặc lời bài hát; bạn cần nhạc nền
+
+**Cần xác nhận gì trước khi tạo:** Chọn phiên bản có sẵn và chế độ nhạc không lời hoặc có giọng hát; nhạc được tạo riêng với video
 
 Mở [không gian sáng tạo](https://videoweb.ai/vi/create/) để kiểm tra các chế độ và chi phí hiện tại. Trang mô hình mô tả các khả năng; biểu mẫu đã chọn quyết định dữ liệu đầu vào và thiết lập mà bạn thực sự sử dụng được.
 
@@ -112,15 +184,37 @@ Bài tập này chưa được thử tạo thực tế. Nó tạo cảnh theo m�
 
 Chúng tôi chia sẻ bộ sưu tập câu lệnh, hình ảnh tham chiếu và hướng dẫn thao tác trên trình duyệt để nhà sáng tạo có thể bắt đầu từ ví dụ cụ thể, điều chỉnh và học cách kiểm tra kết quả. Các phiên bản VideoWeb giữ lại ghi nhận nguồn gốc ban đầu và phân biệt minh họa từ cộng đồng với đầu ra đã qua thử nghiệm. Mỗi kho lưu trữ giải thích riêng về nguồn và giấy phép.
 
-| Ý tưởng và chỉnh sửa hình ảnh | Cảnh video và âm thanh |
-| --- | --- |
-| [![Ảnh bìa thư viện câu lệnh VideoWeb GPT Image 2.5](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png)](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) | [![Ảnh bìa thư viện câu lệnh VideoWeb MiniMax H3](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp)](https://github.com/aivideoweb/awesome-minimax-h3-prompts) |
-| [**Awesome GPT Image 2.5 Prompts**](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) — Hướng dẫn có hình minh họa cho ảnh sản phẩm, áp phích, chân dung, chỉnh sửa chính xác và phân cảnh. **Phù hợp nhất với:** nhà thiết kế và người làm tiếp thị muốn xem ví dụ trước khi chọn câu lệnh. | [**Awesome MiniMax H3 Prompts**](https://github.com/aivideoweb/awesome-minimax-h3-prompts) — Hướng dẫn cảnh quay với thời gian, máy quay, tư liệu tham chiếu và âm thanh, kèm ví dụ của nhà sáng tạo. **Phù hợp nhất với:** người làm quảng cáo, cảnh nhân vật hoặc phim ngắn mang phong cách điện ảnh. |
+### [Awesome GPT Image 2.5 Prompts](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts)
 
-| Chuyển động và chuyển tiếp | Video miễn phí đầu tiên |
-| --- | --- |
-| [![Ảnh bìa thư viện câu lệnh VideoWeb Wan 3.0](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png)](https://github.com/aivideoweb/awesome-wan-3-0-prompts) | [![Ảnh bìa hướng dẫn quy trình MiniMax H3 miễn phí của VideoWeb](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png)](https://github.com/aivideoweb/best-free-minimax-h3) |
-| [**Awesome Wan 3.0 Prompts**](https://github.com/aivideoweb/awesome-wan-3-0-prompts) — Mô tả cảnh cho quảng cáo sản phẩm, hành động, hội thoại, phim ngắn trên mạng xã hội và kiểm soát sản xuất. **Phù hợp nhất với:** nhà sáng tạo muốn luyện điều khiển máy quay và tính liên tục của cảnh. | [**Best Free MiniMax H3 Tools**](https://github.com/aivideoweb/best-free-minimax-h3) — Sáu quy trình khởi đầu, câu lệnh cảnh quay ngắn và so sánh các lựa chọn liên quan thuộc những thương hiệu trong cùng công ty. **Phù hợp nhất với:** người mới chọn quy trình H3 miễn phí. Đây không phải bảng xếp hạng thị trường độc lập. |
+<a href="https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png" alt="Ảnh bìa thư viện câu lệnh VideoWeb GPT Image 2.5" width="560"></a>
+
+Hướng dẫn có hình minh họa cho ảnh sản phẩm, áp phích, chân dung, chỉnh sửa chính xác và phân cảnh.
+
+**Phù hợp nhất với:** nhà thiết kế và người làm tiếp thị muốn xem ví dụ trước khi chọn câu lệnh.
+
+### [Awesome MiniMax H3 Prompts](https://github.com/aivideoweb/awesome-minimax-h3-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-minimax-h3-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp" alt="Ảnh bìa thư viện câu lệnh VideoWeb MiniMax H3" width="560"></a>
+
+Hướng dẫn cảnh quay với thời gian, máy quay, tư liệu tham chiếu và âm thanh, kèm ví dụ của nhà sáng tạo.
+
+**Phù hợp nhất với:** người làm quảng cáo, cảnh nhân vật hoặc phim ngắn mang phong cách điện ảnh.
+
+### [Awesome Wan 3.0 Prompts](https://github.com/aivideoweb/awesome-wan-3-0-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-wan-3-0-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png" alt="Ảnh bìa thư viện câu lệnh VideoWeb Wan 3.0" width="560"></a>
+
+Mô tả cảnh cho quảng cáo sản phẩm, hành động, hội thoại, phim ngắn trên mạng xã hội và kiểm soát sản xuất.
+
+**Phù hợp nhất với:** nhà sáng tạo muốn luyện điều khiển máy quay và tính liên tục của cảnh.
+
+### [Best Free MiniMax H3 Tools](https://github.com/aivideoweb/best-free-minimax-h3)
+
+<a href="https://github.com/aivideoweb/best-free-minimax-h3"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png" alt="Ảnh bìa hướng dẫn quy trình MiniMax H3 miễn phí của VideoWeb" width="560"></a>
+
+Sáu quy trình khởi đầu, câu lệnh cảnh quay ngắn và so sánh các lựa chọn liên quan thuộc những thương hiệu trong cùng công ty.
+
+**Phù hợp nhất với:** người mới chọn quy trình H3 miễn phí. Đây không phải bảng xếp hạng thị trường độc lập.
 
 *Ảnh bìa minh họa tài nguyên; không phải bằng chứng về kết quả từ các công cụ tạo nội dung miễn phí được liên kết. Xem nhãn của từng kho lưu trữ để biết nguồn ví dụ và dữ liệu đầu vào được hỗ trợ.*
 

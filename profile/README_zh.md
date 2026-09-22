@@ -9,16 +9,12 @@
 [![免费生成视频](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91-6D4AFF?style=for-the-badge)](https://videoweb.ai/cn/free-minimax-h3/)
 [![免费生成图片](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87-147D92?style=for-the-badge)](https://videoweb.ai/cn/free-gpt-image-2-5/)
 
-[![浏览开源项目](https://img.shields.io/badge/%E6%B5%8F%E8%A7%88%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/aivideoweb/repositories) [![查看套餐与积分](https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%E4%B8%8E%E7%A7%AF%E5%88%86-59636E?style=for-the-badge)](https://videoweb.ai/cn/pricing/)
+[**浏览开源项目 →**](https://github.com/orgs/aivideoweb/repositories) [**查看套餐与积分 →**](https://videoweb.ai/cn/pricing/)
 
 </div>
 
 <!-- LANGUAGE_NAV_START -->
-[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md)
-
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md)
-
-[![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
+[![English](https://img.shields.io/badge/English-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ja.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_pt.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_de.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ru.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_fr.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-647A30?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_tw.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_ko.md) [![ไทย](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-th-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_vi.md) [![العربية](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-ar-idle.svg)](https://github.com/aivideoweb/.github/blob/main/profile/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_id.md) [![Italiano](https://img.shields.io/badge/Italiano-59636E?style=flat-square)](https://github.com/aivideoweb/.github/blob/main/profile/README_it.md)
 <!-- LANGUAGE_NAV_END -->
 
 [**🎁 免费工具**](#user-content-免费工具按你要完成的任务选择) · [**🎬 选择模型**](#user-content-根据创作任务选择模型) · [**▶ 制作第一个短片**](#user-content-制作你的第一个五秒镜头) · [**📚 开源资源**](#user-content-开源资源从具体例子学会描述和检查) · [**🤝 推广合作**](#user-content-分享教程与-videoweb-开展推广合作)
@@ -29,22 +25,32 @@
 
 你可以制作产品展示、竖屏短视频、宣传图片或课程开场。我们的 GitHub 资源继续帮助你解决两个问题：**该怎样描述想要的结果？生成后又该检查什么？**
 
-| 想做什么 | 从哪里开始 |
-| --- | --- |
-| 把想法变成一个短镜头 | [文字生成视频](https://videoweb.ai/cn/text-to-video/)：描述主体、动作、镜头和声音 |
-| 让产品照片或分镜动起来 | [图片生成视频](https://videoweb.ai/cn/image-to-video/)：上传图片，说明哪些部分如何运动 |
-| 制作封面、海报或修改产品图 | [AI 图片生成器](https://videoweb.ai/cn/ai-image-generator/)：写出画面要求，或描述要修改的地方 |
-| 为创作准备音乐 | [AI 音乐生成器](https://videoweb.ai/cn/ai-music/)：从情绪和音乐风格开始 |
+- **把想法变成一个短镜头** — [文字生成视频](https://videoweb.ai/cn/text-to-video/)：描述主体、动作、镜头和声音
+- **让产品照片或分镜动起来** — [图片生成视频](https://videoweb.ai/cn/image-to-video/)：上传图片，说明哪些部分如何运动
+- **制作封面、海报或修改产品图** — [AI 图片生成器](https://videoweb.ai/cn/ai-image-generator/)：写出画面要求，或描述要修改的地方
+- **为创作准备音乐** — [AI 音乐生成器](https://videoweb.ai/cn/ai-music/)：从情绪和音乐风格开始
 
 ## 免费工具：按你要完成的任务选择
 
 ### 先做一段视频或一张图片
 
-| 工具 | 可以用来做什么 | 开始前需要知道 |
-| --- | --- | --- |
-| H3 免费流程：[文字或首尾帧图片](https://videoweb.ai/cn/free-minimax-h3/) · [图片引导入口](https://videoweb.ai/cn/free-image-to-video/) | 试做一个短场景：没有图片就从文字开始；想按计划过渡，就同时提供开头和结尾图片 | 两个入口使用同一套 H3 流程：免注册、0 积分、**5 秒、480p**。这是两个入口页面，不是两个不同的模型。 |
-| [免费 GPT Image 2.5](https://videoweb.ai/cn/free-gpt-image-2-5/) | 制作宣传图草稿、分镜或修改图片 | 页面标明免注册；支持文字或**一张参考图**，可选九种画面比例。 |
-| [免费 Nano Banana](https://videoweb.ai/cn/free-nano-banana/) | 尝试图片创意、照片修改和不同风格 | 页面标明免注册；输入提示词，也可添加图片。 |
+#### H3 免费流程：[文字或首尾帧图片](https://videoweb.ai/cn/free-minimax-h3/) · [图片引导入口](https://videoweb.ai/cn/free-image-to-video/)
+
+**可以用来做什么：** 试做一个短场景：没有图片就从文字开始；想按计划过渡，就同时提供开头和结尾图片
+
+**开始前需要知道：** 两个入口使用同一套 H3 流程：免注册、0 积分、**5 秒、480p**。这是两个入口页面，不是两个不同的模型。
+
+#### [免费 GPT Image 2.5](https://videoweb.ai/cn/free-gpt-image-2-5/)
+
+**可以用来做什么：** 制作宣传图草稿、分镜或修改图片
+
+**开始前需要知道：** 页面标明免注册；支持文字或**一张参考图**，可选九种画面比例。
+
+#### [免费 Nano Banana](https://videoweb.ai/cn/free-nano-banana/)
+
+**可以用来做什么：** 尝试图片创意、照片修改和不同风格
+
+**开始前需要知道：** 页面标明免注册；输入提示词，也可添加图片。
 
 ### 准备素材、描述图片和转换格式
 
@@ -60,19 +66,85 @@
 
 ## 根据创作任务选择模型
 
-先看手头有什么素材，以及成片必须满足什么要求。下表的候选模型来自所链接的产品页，供你选择起点，不代表质量排名。若多个模型都适合，可在各自可用的模式中用同一段简短描述做比较，并在生成前查看显示的积分费用。
+先看手头有什么素材，以及成片必须满足什么要求。以下的候选模型来自所链接的产品页，供你选择起点，不代表质量排名。若多个模型都适合，可在各自可用的模式中用同一段简短描述做比较，并在生成前查看显示的积分费用。
 
-| 你的素材与需求 | 候选模型 | 生成前要确认什么 |
-| --- | --- | --- |
-| 有场景文字描述或产品照片，想控制产品亮相和镜头运动 | [Seedance 2.5](https://videoweb.ai/cn/model/seedance-2-5/) — 文字或图片生成视频，利用参考素材控制场景 | 确认所选模式支持你的参考素材类型；描述一个主要动作和明确的结尾 |
-| 有文字描述或一对首尾帧图片，想免费试做短片 | [MiniMax H3](https://videoweb.ai/cn/model/minimax-h3/) — 上方的独立免费流程输出为 5 秒、480p | 若需要更长时长或更高分辨率，模型页介绍最高 15 秒、2K 和原生立体声；请确认进阶表单及积分费用 |
-| 有开头图片和预设的结尾构图，需要尾帧选项 | [Wan 3.0](https://videoweb.ai/cn/model/wan-3-0/) — 文字或图片生成视频，时长可选 5–30 秒 | 支持的图片模式可选用尾帧引导；确认你选择的模式提供此功能 |
-| 想制作人物场景或对话，需要多个镜头 | [Kling 3.0](https://videoweb.ai/cn/model/kling-3-0/) — 人物动作、声音和多镜头叙事 | 查看所选模式的镜头与声音设置；明确人物外观和说话者要求 |
-| 有场景描述或图片，重视镜头运动和环境声 | [Veo 3.1](https://videoweb.ai/cn/model/veo-3-1-video/) — 带声音的文字或图片生成视频，适合电影感场景 | 确认时长、声音设置及积分费用；H3 和 Kling 也介绍了声音功能，不能只凭声音需求决定模型 |
-| 想制作宣传图，或只修改一个元素并保留其余内容 | [GPT Image 2.5](https://videoweb.ai/cn/model/gpt-image-2-5/) — Flare 用于探索创意，Sunburst 用于精细编辑 | 写清要改什么、什么必须保持不变；查看所选表单的参考图限制，尤其是独立免费入口 |
-| 有多张视觉参考图，想将它们组合成一个画面 | [Nano Banana Pro](https://videoweb.ai/cn/nano-banana-pro-ai/) — 图片创作与参考素材组合 | 确认上传限制，并说明每张图片的用途：主体、风格或构图 |
-| 想制作产品海报、信息版式或分镜 | [Seedream 5.0 Pro](https://videoweb.ai/cn/model/seedream-5-0-pro/) — 图片生成与编辑 | 指定准确的文字和排版；检查生成结果中的文字及产品细节 |
-| 有情绪描述或歌词，需要配乐 | [Suno 音乐创作](https://videoweb.ai/cn/ai-music/) — 可选纯音乐或人声；[价格页列出至 5.0 的版本](https://videoweb.ai/cn/pricing/) | 选择可用版本和 Instrumental（纯音乐）或人声模式；音乐与视频分开生成 |
+### 视频模型
+
+#### [Seedance 2.5](https://videoweb.ai/cn/model/seedance-2-5/)
+
+文字或图片生成视频，利用参考素材控制场景
+
+**你的素材与需求：** 有场景文字描述或产品照片，想控制产品亮相和镜头运动
+
+**生成前要确认什么：** 确认所选模式支持你的参考素材类型；描述一个主要动作和明确的结尾
+
+#### [MiniMax H3](https://videoweb.ai/cn/model/minimax-h3/)
+
+上方的独立免费流程输出为 5 秒、480p
+
+**你的素材与需求：** 有文字描述或一对首尾帧图片，想免费试做短片
+
+**生成前要确认什么：** 若需要更长时长或更高分辨率，模型页介绍最高 15 秒、2K 和原生立体声；请确认进阶表单及积分费用
+
+#### [Wan 3.0](https://videoweb.ai/cn/model/wan-3-0/)
+
+文字或图片生成视频，时长可选 5–30 秒
+
+**你的素材与需求：** 有开头图片和预设的结尾构图，需要尾帧选项
+
+**生成前要确认什么：** 支持的图片模式可选用尾帧引导；确认你选择的模式提供此功能
+
+#### [Kling 3.0](https://videoweb.ai/cn/model/kling-3-0/)
+
+人物动作、声音和多镜头叙事
+
+**你的素材与需求：** 想制作人物场景或对话，需要多个镜头
+
+**生成前要确认什么：** 查看所选模式的镜头与声音设置；明确人物外观和说话者要求
+
+#### [Veo 3.1](https://videoweb.ai/cn/model/veo-3-1-video/)
+
+带声音的文字或图片生成视频，适合电影感场景
+
+**你的素材与需求：** 有场景描述或图片，重视镜头运动和环境声
+
+**生成前要确认什么：** 确认时长、声音设置及积分费用；H3 和 Kling 也介绍了声音功能，不能只凭声音需求决定模型
+
+### 图片模型
+
+#### [GPT Image 2.5](https://videoweb.ai/cn/model/gpt-image-2-5/)
+
+Flare 用于探索创意，Sunburst 用于精细编辑
+
+**你的素材与需求：** 想制作宣传图，或只修改一个元素并保留其余内容
+
+**生成前要确认什么：** 写清要改什么、什么必须保持不变；查看所选表单的参考图限制，尤其是独立免费入口
+
+#### [Nano Banana Pro](https://videoweb.ai/cn/nano-banana-pro-ai/)
+
+图片创作与参考素材组合
+
+**你的素材与需求：** 有多张视觉参考图，想将它们组合成一个画面
+
+**生成前要确认什么：** 确认上传限制，并说明每张图片的用途：主体、风格或构图
+
+#### [Seedream 5.0 Pro](https://videoweb.ai/cn/model/seedream-5-0-pro/)
+
+图片生成与编辑
+
+**你的素材与需求：** 想制作产品海报、信息版式或分镜
+
+**生成前要确认什么：** 指定准确的文字和排版；检查生成结果中的文字及产品细节
+
+### 音乐
+
+#### [Suno 音乐创作](https://videoweb.ai/cn/ai-music/)
+
+可选纯音乐或人声；[价格页列出至 5.0 的版本](https://videoweb.ai/cn/pricing/)
+
+**你的素材与需求：** 有情绪描述或歌词，需要配乐
+
+**生成前要确认什么：** 选择可用版本和 Instrumental（纯音乐）或人声模式；音乐与视频分开生成
 
 进入[创作工作区](https://videoweb.ai/cn/create/)查看当前模式与费用。模型页介绍可能实现的功能，实际可用的输入与设置以所选表单为准。
 
@@ -103,15 +175,37 @@
 
 我们分享提示词库、视觉参考和浏览器操作指南，让创作者能够从具体例子出发，修改成自己的创意，并学会检查结果。VideoWeb 版本保留上游来源说明，区分社区演示与经过测试的输出。每个仓库分别说明素材来源和许可。
 
-| 图片创意与编辑 | 视频场景与声音 |
-| --- | --- |
-| [![VideoWeb GPT Image 2.5 提示词库封面](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png)](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts) | [![VideoWeb MiniMax H3 提示词库封面](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp)](https://github.com/aivideoweb/awesome-minimax-h3-prompts) |
-| [**GPT Image 2.5 提示词库**](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts)：带图例的产品图、海报、人像、精细编辑和分镜提示词。**适合：**希望先看示例再选提示词的设计师和营销人员。 | [**MiniMax H3 提示词库**](https://github.com/aivideoweb/awesome-minimax-h3-prompts)：包含时序、镜头、参考素材和声音要求的场景提示词，以及创作者案例。**适合：**制作广告、人物场景和电影感短片的创作者。 |
+### [GPT Image 2.5 提示词库](https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts)
 
-| 动作与场景过渡 | 第一次免费制作视频 |
-| --- | --- |
-| [![VideoWeb Wan 3.0 提示词库封面](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png)](https://github.com/aivideoweb/awesome-wan-3-0-prompts) | [![VideoWeb 免费 MiniMax H3 工作流指南封面](https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png)](https://github.com/aivideoweb/best-free-minimax-h3) |
-| [**Wan 3.0 提示词库**](https://github.com/aivideoweb/awesome-wan-3-0-prompts)：覆盖产品广告、动作、对话、社交短片和制作控制的场景描述。**适合：**希望练习镜头控制和画面连续性的创作者。 | [**免费 MiniMax H3 工具指南**](https://github.com/aivideoweb/best-free-minimax-h3)：六类入门流程、短镜头提示词，以及同一公司旗下的关联品牌入口对比。**适合：**选择免费 H3 流程的新手；这不是独立的市场排名。 |
+<a href="https://github.com/aivideoweb/awesome-gpt-image-2-5-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/gpt-image-library.png" alt="VideoWeb GPT Image 2.5 提示词库封面" width="560"></a>
+
+带图例的产品图、海报、人像、精细编辑和分镜提示词。
+
+**适合：**希望先看示例再选提示词的设计师和营销人员。
+
+### [MiniMax H3 提示词库](https://github.com/aivideoweb/awesome-minimax-h3-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-minimax-h3-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/minimax-library.webp" alt="VideoWeb MiniMax H3 提示词库封面" width="560"></a>
+
+包含时序、镜头、参考素材和声音要求的场景提示词，以及创作者案例。
+
+**适合：**制作广告、人物场景和电影感短片的创作者。
+
+### [Wan 3.0 提示词库](https://github.com/aivideoweb/awesome-wan-3-0-prompts)
+
+<a href="https://github.com/aivideoweb/awesome-wan-3-0-prompts"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/wan-library.png" alt="VideoWeb Wan 3.0 提示词库封面" width="560"></a>
+
+覆盖产品广告、动作、对话、社交短片和制作控制的场景描述。
+
+**适合：**希望练习镜头控制和画面连续性的创作者。
+
+### [免费 MiniMax H3 工具指南](https://github.com/aivideoweb/best-free-minimax-h3)
+
+<a href="https://github.com/aivideoweb/best-free-minimax-h3"><img src="https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/free-h3-guide.png" alt="VideoWeb 免费 MiniMax H3 工作流指南封面" width="560"></a>
+
+六类入门流程、短镜头提示词，以及同一公司旗下的关联品牌入口对比。
+
+**适合：**选择免费 H3 流程的新手；这不是独立的市场排名。
 
 *封面用于介绍资源，不是对应免费生成器的效果证明。示例来源与输入要求，请查看各仓库的具体标注。*
 

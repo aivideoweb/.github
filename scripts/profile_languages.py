@@ -31,7 +31,7 @@ def navigation(current):
             state = 'active' if filename == current else 'idle'
             badge = f'https://raw.githubusercontent.com/aivideoweb/.github/main/profile/assets/badges/nav-{code}-{state}.svg'
         rows.append(f'[![{label}]({badge})]({BASE}{filename})')
-    return START + '\n' + '\n\n'.join(' '.join(rows[i:i+5]) for i in range(0,15,5)) + '\n' + END
+    return START + '\n' + ' '.join(rows) + '\n' + END
 
 def refresh():
     for _, _, name in LANGUAGES:
@@ -133,10 +133,12 @@ def commercial_values(source, actual):
 
 
 def semantic_items(text):
-    """Stable section/table/row/cell or section/paragraph addresses, not URL sets."""
+    """Address headings and content by section/H3/H4, retaining heading links."""
     text = re.sub(START + r'.*?' + END, '', text, flags=re.S)
     text = re.sub(r'```[^\n]*\n.*?```', '', text, flags=re.S)
-    items, section, table, row, paragraph = {}, 0, 0, 0, 0
+    items = {}
+    section = h3 = h4 = table = row = paragraph = 0
+    context = 's0'
     pending = []
     in_table = False
 
@@ -144,16 +146,31 @@ def semantic_items(text):
         nonlocal paragraph
         if pending:
             paragraph += 1
-            items[f's{section}/p{paragraph}'] = ' '.join(pending)
+            items[f'{context}/p{paragraph}'] = ' '.join(pending)
             pending.clear()
 
     for line in text.splitlines():
-        if line.startswith('## '):
+        heading = re.match(r'^(#{1,4})\s+(.*)', line)
+        if heading:
             flush()
-            section += 1
+            level = len(heading[1])
+            if level == 2:
+                section += 1
+                h3 = h4 = 0
+            elif level == 3:
+                h3 += 1
+                h4 = 0
+            elif level == 4:
+                h4 += 1
+            context = f's{section}'
+            if level >= 3:
+                context += f'/h3-{h3}'
+            if level == 4:
+                context += f'/h4-{h4}'
+            items[f'{context}/heading'] = heading[2]
             table = row = paragraph = 0
             in_table = False
-        elif line.startswith('#') or re.fullmatch(r'\s*(?:<[^>]+>\s*)+', line):
+        elif re.fullmatch(r'\s*(?:<[^>]+>\s*)+', line):
             flush()
         elif line.startswith('|'):
             flush()
@@ -164,7 +181,7 @@ def semantic_items(text):
             if re.match(r'^\|\s*:?-', line):
                 continue
             for column, cell in enumerate(line.strip().strip('|').split('|')):
-                items[f's{section}/t{table}/r{row}/c{column}'] = cell.strip()
+                items[f'{context}/t{table}/r{row}/c{column}'] = cell.strip()
             row += 1
         elif not line.strip():
             flush()
@@ -177,6 +194,35 @@ def semantic_items(text):
             pending.append(line)
     flush()
     return items
+
+
+MODEL_ROUTES = [
+    '/model/seedance-2-5/', '/model/minimax-h3/', '/model/wan-3-0/',
+    '/model/kling-3-0/', '/model/veo-3-1-video/', '/model/gpt-image-2-5/',
+    '/nano-banana-pro-ai/', '/model/seedream-5-0-pro/', '/ai-music/',
+]
+
+
+def validate_layout(items, locale, manifest, name):
+    table_addresses = list(dict.fromkeys(key.split('/r', 1)[0]
+                                        for key in items if re.search(r'/t\d+/r\d+/c\d+$', key)))
+    require(len(table_addresses) == 2 and
+            [key.split('/')[0] for key in table_addresses] == ['s2', 's6'],
+            f'{name}: expected only auxiliary-tools table in s2 and commission table in s6')
+    categories = [key for key in items if re.fullmatch(r's3/h3-\d+/heading', key)]
+    require(len(categories) == 3, f'{name}: expected 3 model H3 categories')
+    headings = [(key, value) for key, value in items.items()
+                if re.fullmatch(r's3/h3-\d+/h4-\d+/heading', key)]
+    require(len(headings) == 9, f'{name}: expected 9 model H4 headings')
+    routes = []
+    for key, value in headings:
+        require(not key.startswith('s3/h3-0/'), f'{name} {key}: model outside H3 category')
+        official = [url for url in URL_RE.findall(value) if urlsplit(url).netloc == 'videoweb.ai']
+        require(bool(official), f'{name} {key}: missing model product link in heading')
+        # The model link is first; title may also link to pricing or supporting pages.
+        routes.append(normalize_url(official[0], locale, manifest))
+    require(routes == MODEL_ROUTES,
+            f'{name}: model H4 canonical route order differs: {routes}')
 
 
 def validate_assets(text, root, name):
@@ -200,7 +246,7 @@ def validate_assets(text, root, name):
 
 def validate_document(text, english, locale, manifest, name):
     require(len(re.findall(r'^## ', text, re.M)) == 7, f'{name}: expected 7 H2 sections')
-    require(len(re.findall(r'^\|\s*---', text, re.M)) == 7, f'{name}: expected 7 tables')
+    require(len(re.findall(r'^\|\s*---', text, re.M)) == 2, f'{name}: expected 2 tables')
     prompts = re.findall(r'^```[^\n]*\n(.*?)^```\s*$', text, re.M | re.S)
     require(len(prompts) == 1 and bool(prompts[0].strip()), f'{name}: prompt must be nonempty')
     source, translated = semantic_items(english), semantic_items(text)
@@ -214,11 +260,7 @@ def validate_document(text, english, locale, manifest, name):
             require(commercial[0] == commercial[1],
                     f'{name} {key}: complete commercial numeric values differ: '
                     f'{commercial[0]} != {commercial[1]}')
-    model_cells = [k for k in translated if k.startswith('s3/t1/')]
-    expected_model_cells = [f's3/t1/r{row}/c{column}'
-                            for row in range(10) for column in range(3)]
-    require(model_cells == expected_model_cells,
-            f'{name}: model table requires 3 columns and 9 data rows')
+    validate_layout(translated, locale, manifest, name)
 
 
 def check(root=ROOT):

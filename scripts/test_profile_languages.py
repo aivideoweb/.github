@@ -10,17 +10,39 @@ import profile_languages as checker
 def fixture():
     sections = []
     for i in range(1, 8):
-        count = 9 if i == 3 else 1
-        rows = ['| task | where | verify |', '| --- | --- | --- |']
-        for j in range(count):
-            route = '/text-to-video/' if j == 0 else '/image-to-video/'
-            rows.append(f'| task {j} | [tool](https://videoweb.ai{route}) | 480p |')
-        sections.append(f'## Section {i}\n\n' + '\n'.join(rows))
+        content = []
+        if i == 1:
+            content = ['- [tool](https://videoweb.ai/text-to-video/)',
+                       '- [tool](https://videoweb.ai/image-to-video/)',
+                       '- [tool](https://videoweb.ai/text-to-video/)',
+                       '- [tool](https://videoweb.ai/image-to-video/)']
+        elif i == 2:
+            for j in range(3):
+                content.append(f'#### Free generator {j}\n\nUse it for a scene.\n\nConditions: free.')
+            content += ['### Auxiliary tools', '| Tool | Result |', '| --- | --- |',
+                        '| [tool](https://videoweb.ai/text-to-video/) | 480p |',
+                        '| [tool](https://videoweb.ai/image-to-video/) | Image |',
+                        '', 'New users: 40 credits.']
+        elif i == 3:
+            for j, route in enumerate(checker.MODEL_ROUTES):
+                if j in (0, 5, 8):
+                    content.append(f'### Category {j}')
+                content.append(f'#### [Model {j}](https://videoweb.ai{route}) — capability')
+                content.extend(['Goal: a scene.', 'Verify the mode: 480p.'])
+            content = ['\n\n'.join(content)]
+        elif i == 4:
+            content = ['```text\nA blue cup.\n```']
+        elif i == 5:
+            for j in range(4):
+                content.append(f'### Project {j}\n\nCover\n\nDescription\n\nBest for: creators.')
+        elif i == 6:
+            content = ['| Eligible order | Commission |', '| --- | --- |',
+                       '| First | 20% |', '| Later | 10% |', '', 'Payout: 100 USD.']
+        sections.append(f'## Section {i}\n\n' + '\n'.join(content))
     source = '\n\n'.join(sections)
-    source += '\n\nNew users: 40 credits.\n\nPayout: 100 USD.\n\n```text\nA blue cup.\n```\n'
     translated = source.replace('https://videoweb.ai/', 'https://videoweb.ai/cn/')
     manifest = {'checked_at': '2026-09-22', 'routes': {}}
-    for route in ('/text-to-video/', '/image-to-video/'):
+    for route in ('/text-to-video/', '/image-to-video/', *checker.MODEL_ROUTES):
         manifest['routes'][route] = {
             'en': {'url': 'https://videoweb.ai' + route, 'status': 200, 'lang': 'en'},
             'cn': {'url': 'https://videoweb.ai/cn' + route, 'status': 200, 'lang': 'zh-CN'},
@@ -147,7 +169,48 @@ class SemanticRegressionTests(unittest.TestCase):
 
     def test_model_shape(self):
         with self.assertRaises(ValueError):
-            self.validate(self.text.replace('| task 8 |', '| task 8 | extra |'))
+            self.validate(self.text.replace('#### [Model 8]', '### [Model 8]'))
+
+    def test_heading_links_are_checked(self):
+        changed = self.text.replace('/cn/model/seedance-2-5/', '/TEMP/').replace(
+            '/cn/model/minimax-h3/', '/cn/model/seedance-2-5/').replace('/TEMP/', '/cn/model/minimax-h3/')
+        with self.assertRaisesRegex(ValueError, r's3/h3-1/h4-1/heading: link destinations/order'):
+            self.validate(changed)
+
+    def test_h4_paragraphs_have_separate_addresses(self):
+        items = checker.semantic_items(self.text)
+        self.assertIn('s3/h3-1/h4-1/p1', items)
+        self.assertIn('s3/h3-1/h4-1/p2', items)
+        self.assertIn('s3/h3-1/h4-2/p1', items)
+        self.assertIn('s3/h3-1/h4-2/p2', items)
+
+    def test_canonical_model_order_even_when_english_also_wrong(self):
+        changed = self.source.replace('/model/seedance-2-5/', '/TEMP/').replace(
+            '/model/minimax-h3/', '/model/seedance-2-5/').replace('/TEMP/', '/model/minimax-h3/')
+        with self.assertRaisesRegex(ValueError, 'canonical route order'):
+            checker.validate_document(changed, changed, 'en', self.manifest, 'English')
+
+    def test_missing_h4_even_when_english_also_wrong(self):
+        changed = self.source.replace('#### [Model 8]', '**Model** [Model 8]')
+        with self.assertRaisesRegex(ValueError, '9 model H4'):
+            checker.validate_document(changed, changed, 'en', self.manifest, 'English')
+
+    def test_tables_must_remain_in_designated_sections(self):
+        changed = self.source.replace('## Section 6', '## Section 7', 1)
+        # Swap physical H2 sections: titles cannot determine semantic addresses.
+        parts = changed.split('## Section ')
+        parts[5], parts[6] = parts[6], parts[5]
+        changed = '## Section '.join(parts)
+        with self.assertRaisesRegex(ValueError, 'only auxiliary-tools table'):
+            checker.validate_document(changed, changed, 'en', self.manifest, 'English')
+
+    def test_navigation_is_one_paragraph_with_all_languages(self):
+        for _, _, filename in checker.LANGUAGES:
+            nav = checker.navigation(filename)
+            body = nav.splitlines()[1:-1]
+            self.assertEqual(len(body), 1)
+            self.assertEqual(body[0].count('](' + checker.BASE), 15)
+            self.assertNotIn('\n\n', nav)
 
     def test_asset_exists_and_logo_extension_not_fixed(self):
         with tempfile.TemporaryDirectory() as directory:
